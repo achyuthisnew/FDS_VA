@@ -5,7 +5,7 @@ import plotly.express as px
 import json
 
 # Load datasets
-raw_data_path = "https://raw.githubusercontent.com/Iamvideo123/fds/refs/heads/main/alien_mission_data.csv"
+raw_data_path = "https://raw.githubusercontent.com/achyuthisnew/FDS_VA/refs/heads/main/Product_Purchase_Prediction_Synthetic.csv"
 preprocessed_data_path = "https://raw.githubusercontent.com/Iamvideo123/fds/refs/heads/main/alien_mission_data_preprocessed.csv"
 
 # Read raw and preprocessed data
