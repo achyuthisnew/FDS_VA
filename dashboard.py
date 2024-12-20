@@ -3,6 +3,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import json
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.metrics import confusion_matrix
 
 # Load datasets
 raw_data_path = "https://raw.githubusercontent.com/achyuthisnew/FDS_VA/refs/heads/main/Product_Purchase_Prediction_Synthetic%20(1).csv"
@@ -107,11 +110,35 @@ st.plotly_chart(fig, use_container_width=True)
 st.write("### Comparison Table")
 st.dataframe(df_comparison)
 
-# Section 4: Insights
-st.header("4. Insights")
+# Section 4: Feature Importance Visualization
+st.header("4. Feature Importance (Preprocessed Model)")
+
+# Mock feature importance (replace this with actual feature importance from your Random Forest model)
+feature_importances = [0.2, 0.15, 0.3, 0.1, 0.25]  # Example values
+feature_names = ["Feature A", "Feature B", "Feature C", "Feature D", "Feature E"]  # Replace with actual feature names
+
+feature_df = pd.DataFrame({"Feature": feature_names, "Importance": feature_importances}).sort_values(by="Importance", ascending=False)
+fig = px.bar(feature_df, x="Feature", y="Importance", title="Feature Importances (Random Forest)")
+st.plotly_chart(fig, use_container_width=True)
+
+# Section 5: Confusion Matrix
+st.header("5. Confusion Matrix")
+
+# Mock confusion matrix (replace this with actual predictions from your model)
+cm_raw = [[100, 30], [20, 54]]
+cm_preprocessed = [[110, 20], [18, 56]]
+
+fig, ax = plt.subplots(1, 2, figsize=(12, 6))
+sns.heatmap(cm_raw, annot=True, fmt="d", cmap="Blues", xticklabels=["No", "Yes"], yticklabels=["No", "Yes"], ax=ax[0])
+ax[0].set_title("Confusion Matrix (Raw Data)")
+sns.heatmap(cm_preprocessed, annot=True, fmt="d", cmap="Greens", xticklabels=["No", "Yes"], yticklabels=["No", "Yes"], ax=ax[1])
+ax[1].set_title("Confusion Matrix (Preprocessed Data)")
+st.pyplot(fig)
+
+# Section 6: Insights
+st.header("6. Insights")
 st.markdown("""
 - **Raw Data**: The model achieves an accuracy of 60.78%, with poor recall for Class 1, indicating difficulty in identifying positive cases.
 - **Preprocessed Data**: After preprocessing, the model's accuracy improves to 66.67%. The precision for Class 1 also improves, but recall remains low.
-- **Significance**: Preprocessing enhances the model's overall performance, reflected in a higher accuracy and better weighted-average metrics.
-- Use the charts and tables above to analyze and compare performance metrics interactively.
+- **Feature Importance**: The most important features for the model are shown above. Use this information for feature engineering or further analysis.
 """)
