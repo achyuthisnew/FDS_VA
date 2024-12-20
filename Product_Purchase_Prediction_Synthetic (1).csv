@@ -1,0 +1,1021 @@
+CustomerID,Age,Gender,Country,Income (USD),TimeOnWebsite (minutes),ProductsViewed,CartAdds,PreviousPurchases,BrowsingDevice,ReferralSource,DiscountUsed,ProductCategory,CustomerLoyaltyScore,SessionDuration (seconds),Region,Outliers,Purchase
+C0001,56.0,Male,UK,39837.48,52.57,18,8,12,Desktop,Email,No,Electronics,2,1728.86,Asia,1,No
+C0002,46.0,Female,Germany,259937.02,18.72,10,1,14,Desktop,Email,No,Fashion,8,467.48,Europe,2,Yes
+C0003,32.0,Male,India,143063.16,44.44,17,1,12,Desktop,Ad,Yes,Fashion,1,279.8,Asia,0,No
+C0004,60.0,Female,Canada,108413.72,52.09,13,5,1,Desktop,Email,Yes,Fashion,9,975.46,North America,1,Yes
+C0005,25.0,Female,Germany,195113.54,24.62,18,9,11,Desktop,Organic,No,Electronics,7,1894.27,North America,0,No
+C0006,38.0,Female,Germany,65137.07,46.66,13,1,11,Mobile,Ad,No,Fashion,10,990.45,North America,0,No
+C0007,56.0,Male,UK,93592.23,21.23,17,3,10,Tablet,Email,No,Electronics,4,752.11,Europe,0,No
+C0008,36.0,Male,Germany,159145.96,21.44,5,5,14,Mobile,Ad,No,Fashion,3,850.21,Europe,0,Yes
+C0009,40.0,Male,India,283559.48,10.89,11,4,14,Tablet,Ad,No,Home Appliances,6,1554.49,Europe,0,No
+C0010,28.0,Female,India,55035.18,29.2,7,0,7,Tablet,Ad,Yes,Electronics,9,393.66,Asia,0,Yes
+C0011,28.0,Female,USA,187281.33,45.13,10,5,14,Tablet,Ad,Yes,Home Appliances,9,621.97,Europe,0,No
+C0012,41.0,Female,India,119481.82,56.71,17,0,0,Tablet,Organic,No,Electronics,4,506.94,Europe,2,Yes
+C0013,53.0,Male,Germany,107101.31,38.21,15,2,3,Tablet,Ad,No,Fashion,10,330.06,Europe,0,Yes
+C0014,57.0,Female,India,98335.01,52.47,18,9,9,Desktop,Organic,Yes,Fashion,5,546.19,Europe,0,Yes
+C0015,,Female,UK,49398.57,50.24,19,4,11,Mobile,Ad,No,Home Appliances,9,1292.89,North America,0,No
+C0016,20.0,Male,USA,159778.62,14.53,2,9,4,Mobile,,No,Fashion,2,934.45,Asia,1,No
+C0017,39.0,Male,Germany,66760.41,31.72,4,4,8,Desktop,Email,Yes,Electronics,2,979.05,North America,0,No
+C0018,19.0,Female,USA,57535.34,11.43,3,9,6,Tablet,Organic,Yes,Fashion,5,726.24,Asia,0,No
+C0019,41.0,Female,Germany,153695.63,42.52,7,5,7,Mobile,Ad,Yes,Fashion,1,910.5,Asia,1,No
+C0020,61.0,Female,UK,146468.7,57.24,18,9,13,Desktop,Email,No,Electronics,8,411.43,North America,0,Yes
+C0021,47.0,Male,USA,102693.08,12.54,10,7,10,Desktop,Ad,Yes,Home Appliances,5,552.41,Europe,0,No
+C0022,55.0,Female,Canada,169358.29,45.36,7,4,8,Mobile,,No,Home Appliances,10,746.36,North America,0,No
+C0023,19.0,Male,Germany,201383.89,39.77,8,0,12,Mobile,Email,No,Fashion,2,785.65,Asia,0,Yes
+C0024,38.0,Male,Canada,189873.25,37.1,6,4,6,Tablet,Email,Yes,Electronics,9,806.02,Asia,1,Yes
+C0025,50.0,Male,USA,75800.53,26.46,1,2,4,Tablet,Organic,Yes,Home Appliances,2,612.16,Europe,0,Yes
+C0026,29.0,Female,Canada,163906.67,24.53,4,3,12,Mobile,Ad,Yes,Home Appliances,7,530.35,North America,2,Yes
+C0027,39.0,Female,Canada,109734.65,7.49,14,7,14,Tablet,Organic,No,Fashion,8,4423.39,Asia,2,Yes
+C0028,61.0,Female,USA,233971.33,16.98,17,6,4,Desktop,Email,Yes,Electronics,6,1146.05,North America,0,Yes
+C0029,42.0,Male,UK,92793.87,5.83,18,4,9,Tablet,Organic,Yes,Home Appliances,7,852.26,Europe,0,No
+C0030,44.0,Female,Canada,82599.94,36.98,11,1,10,Tablet,Email,No,Fashion,1,578.29,Europe,3,Yes
+C0031,59.0,Male,Canada,72627.69,10.82,14,5,5,Desktop,Ad,Yes,Fashion,4,507.38,Asia,0,Yes
+C0032,45.0,Female,UK,108515.03,53.02,9,5,4,Tablet,Ad,No,Fashion,7,614.94,Europe,0,No
+C0033,33.0,Male,Canada,124662.17,33.77,15,9,12,Desktop,Organic,No,Fashion,1,792.9,Asia,0,No
+C0034,32.0,Male,Canada,125867.01,43.48,12,9,11,Tablet,Email,No,Home Appliances,1,215.24,Asia,0,Yes
+C0035,64.0,Male,Canada,117546.15,27.6,10,5,10,Mobile,Email,No,Electronics,6,259.4,Europe,1,No
+C0036,61.0,Male,India,138070.33,35.83,19,8,8,Tablet,,Yes,Fashion,4,453.9,Europe,0,Yes
+C0037,20.0,Female,UK,88320.64,56.85,19,7,2,Mobile,Ad,No,Fashion,3,753.16,North America,0,Yes
+C0038,54.0,Female,Canada,63814.92,9.55,6,7,2,Mobile,Organic,No,Home Appliances,5,576.19,North America,1,Yes
+C0039,24.0,Male,UK,61088.93,18.97,6,0,14,Mobile,,No,Fashion,9,1614.65,Asia,1,No
+C0040,,Female,Germany,160737.13,47.9,8,4,6,Mobile,Organic,Yes,Fashion,10,273.3,North America,0,No
+C0041,26.0,Male,Germany,124886.57,10.43,1,6,6,Mobile,Organic,No,Electronics,10,423.77,Asia,3,No
+C0042,56.0,Female,Canada,39029.81,9.16,17,5,5,Desktop,Ad,Yes,Fashion,10,1655.83,Europe,0,No
+C0043,35.0,Female,UK,170821.89,24.88,17,4,2,Desktop,Ad,No,Home Appliances,3,719.58,Europe,0,No
+C0044,21.0,Female,UK,252765.53,10.07,15,7,13,Desktop,Organic,No,Electronics,5,1131.05,North America,1,No
+C0045,42.0,Male,UK,69012.41,37.18,7,2,12,Mobile,Ad,Yes,Home Appliances,10,2277.31,Asia,0,No
+C0046,31.0,Female,India,116783.84,17.45,19,5,6,Tablet,Ad,No,Electronics,5,438.66,Asia,0,Yes
+C0047,26.0,Female,Germany,77906.99,54.26,3,4,4,Desktop,Organic,No,Electronics,9,626.66,North America,0,Yes
+C0048,43.0,Male,UK,135151.74,48.09,11,7,6,Tablet,Ad,No,Fashion,10,564.84,Asia,0,No
+C0049,19.0,Male,UK,55104.99,43.48,19,3,1,Tablet,,No,Fashion,4,205.87,Asia,3,No
+C0050,37.0,Female,India,95251.61,38.93,9,7,5,Mobile,Organic,No,Fashion,1,552.12,Europe,0,No
+C0051,45.0,Female,India,161241.27,52.49,10,9,13,Mobile,Organic,No,Home Appliances,10,1128.49,Asia,0,No
+C0052,64.0,Female,UK,183112.48,17.27,2,1,7,Mobile,Organic,Yes,Fashion,5,919.98,Asia,0,No
+C0053,24.0,Female,USA,122179.67,53.02,1,8,0,Desktop,Organic,No,Fashion,1,964.35,Asia,1,No
+C0054,61.0,Female,UK,83322.79,48.42,16,8,3,Mobile,Organic,Yes,Electronics,6,530.96,North America,0,Yes
+C0055,25.0,Male,UK,44520.25,46.15,18,9,10,Desktop,Email,No,Fashion,10,448.69,North America,0,No
+C0056,64.0,Male,India,67590.66,35.87,17,9,0,Desktop,Ad,No,Fashion,10,1424.47,North America,0,No
+C0057,52.0,Male,India,78070.17,18.54,6,5,13,Desktop,Organic,No,Fashion,7,493.54,Asia,0,No
+C0058,31.0,Female,UK,69642.7,28.3,14,3,0,Desktop,Organic,No,Fashion,1,793.5,Asia,0,No
+C0059,34.0,Male,UK,101699.38,48.65,15,3,9,Mobile,Email,No,Electronics,10,733.63,North America,0,Yes
+C0060,,Female,UK,83204.45,6.75,14,5,11,Desktop,Ad,No,Fashion,4,1598.83,North America,1,No
+C0061,57.0,Female,India,107587.6,48.01,3,4,13,Mobile,Email,No,Electronics,9,1191.36,Asia,0,No
+C0062,21.0,Female,UK,180108.31,18.2,19,5,13,Mobile,Ad,No,Home Appliances,1,305.77,Asia,0,No
+C0063,19.0,Male,UK,80560.92,12.94,12,6,10,Desktop,,No,Fashion,9,326.19,Europe,0,No
+C0064,23.0,Female,Canada,49442.54,11.36,2,6,7,Mobile,,No,Fashion,8,941.38,North America,0,Yes
+C0065,59.0,Male,USA,69504.46,6.5,3,8,6,Tablet,Ad,Yes,Fashion,5,639.95,Asia,0,Yes
+C0066,21.0,Female,Germany,132163.39,33.8,18,7,11,Mobile,Email,No,Electronics,6,506.18,North America,0,Yes
+C0067,46.0,Male,USA,138547.97,17.0,1,5,9,Mobile,Ad,No,Fashion,7,1223.38,North America,0,No
+C0068,35.0,Male,Canada,120939.12,59.42,6,5,12,Desktop,Organic,No,Fashion,4,744.32,North America,0,No
+C0069,43.0,Female,Germany,189163.81,36.59,5,4,0,Desktop,Ad,No,Home Appliances,6,686.41,Europe,0,No
+C0070,61.0,Male,UK,89932.84,12.58,1,0,10,Mobile,Email,No,Electronics,7,1061.99,Asia,0,Yes
+C0071,51.0,Male,Canada,275428.43,42.88,19,8,13,Desktop,Ad,No,Electronics,6,531.09,Asia,0,Yes
+C0072,27.0,Female,UK,148611.91,54.38,1,8,12,Tablet,Ad,No,Home Appliances,6,1704.64,North America,0,No
+C0073,53.0,Female,India,27952.34,45.98,16,8,1,Tablet,Email,Yes,Electronics,2,414.54,Asia,0,No
+C0074,31.0,Female,Canada,242881.59,9.2,12,7,3,Desktop,Ad,No,Fashion,5,986.49,Europe,3,No
+C0075,48.0,Female,India,67272.49,54.27,8,9,0,Mobile,Email,No,Fashion,3,1572.31,North America,0,No
+C0076,32.0,Female,Canada,58861.91,48.67,16,2,2,Tablet,Ad,Yes,Home Appliances,7,291.09,Europe,0,No
+C0077,25.0,Male,Canada,128269.08,13.71,1,0,7,Tablet,Email,No,Electronics,4,541.31,Europe,2,Yes
+C0078,31.0,Male,India,41394.77,7.85,4,7,7,Mobile,Organic,No,Electronics,1,1319.92,Asia,0,No
+C0079,40.0,Male,Germany,69721.6,35.65,10,6,7,Desktop,Organic,No,Electronics,6,1331.88,Asia,1,Yes
+C0080,57.0,Female,USA,215033.53,13.58,11,4,5,Tablet,Organic,No,Home Appliances,6,600.1,Europe,0,No
+C0081,38.0,Female,UK,130366.99,50.9,17,9,5,Mobile,,No,Fashion,7,428.03,Asia,0,No
+C0082,33.0,Male,Canada,148170.64,24.71,7,6,4,Mobile,Ad,No,Home Appliances,8,1180.34,Europe,0,No
+C0083,62.0,Male,UK,71078.82,55.21,12,9,12,Tablet,Ad,No,Fashion,3,1353.07,Europe,2,Yes
+C0084,35.0,Female,India,45743.96,36.11,7,3,8,Desktop,Email,No,Home Appliances,6,330.7,North America,0,Yes
+C0085,64.0,Male,UK,140562.67,15.05,12,8,3,Tablet,Organic,No,Fashion,10,323.0,Europe,0,No
+C0086,41.0,Female,India,157177.04,12.68,15,9,9,Mobile,,No,Electronics,2,761.4,Europe,0,Yes
+C0087,43.0,Female,UK,153659.85,36.71,2,1,14,Tablet,Ad,No,Electronics,9,970.31,Asia,0,Yes
+C0088,42.0,Female,USA,109593.64,46.9,14,8,11,Desktop,Ad,No,Electronics,2,555.88,North America,0,No
+C0089,62.0,Male,USA,60868.18,47.98,13,8,11,Mobile,Ad,No,Home Appliances,3,999.82,Asia,0,No
+C0090,,Female,USA,333996.17,20.17,4,4,11,Desktop,Organic,No,Home Appliances,10,434.38,North America,0,No
+C0091,46.0,Female,USA,125479.0,16.23,14,0,6,Tablet,Email,No,Home Appliances,2,187.01,Asia,0,Yes
+C0092,32.0,Female,USA,90495.62,5.92,14,6,0,Tablet,Ad,No,Electronics,9,515.77,Europe,0,No
+C0093,62.0,Female,USA,90696.62,42.36,16,9,14,Desktop,Email,No,Fashion,1,690.86,North America,0,Yes
+C0094,18.0,Female,India,106382.75,9.21,7,9,8,Tablet,Email,No,Electronics,5,563.69,North America,0,No
+C0095,42.0,Female,Canada,168519.06,28.14,19,3,6,Desktop,Organic,No,Electronics,1,331.9,North America,0,No
+C0096,24.0,Male,UK,108533.49,38.09,2,8,9,Tablet,Ad,No,Fashion,5,223.77,North America,3,No
+C0097,26.0,Female,USA,151638.79,56.54,10,5,11,Desktop,Organic,No,Fashion,8,488.6,Asia,0,No
+C0098,41.0,Female,India,106478.55,22.15,18,2,8,Desktop,Email,No,Fashion,8,1139.78,Asia,0,Yes
+C0099,,Male,India,93323.11,18.74,17,5,6,Mobile,Organic,Yes,Fashion,8,1413.35,North America,0,Yes
+C0100,61.0,Female,India,136029.25,40.98,27,9,1,Mobile,Organic,No,Electronics,2,5035.39,North America,0,No
+C0101,25.0,Female,Canada,133471.47,39.06,12,5,14,Desktop,Ad,No,Home Appliances,8,407.67,North America,0,Yes
+C0102,41.0,Female,UK,90688.24,23.27,6,4,5,Tablet,Ad,No,Electronics,5,332.88,Asia,0,No
+C0103,28.0,Male,Canada,67873.2,56.05,9,1,9,Tablet,Organic,No,Fashion,1,896.04,North America,0,Yes
+C0104,34.0,Male,Germany,117109.47,51.47,1,9,11,Tablet,Ad,No,Home Appliances,7,973.66,North America,1,No
+C0105,25.0,Female,India,102659.64,17.32,15,9,10,Desktop,Organic,No,Home Appliances,6,845.65,North America,2,No
+C0106,52.0,Female,Germany,74799.33,18.15,6,1,3,Desktop,Organic,No,Electronics,5,198.65,Asia,0,Yes
+C0107,52.0,Male,USA,64783.08,33.18,19,6,2,Desktop,Organic,Yes,Electronics,1,395.39,Europe,0,No
+C0108,50.0,Female,USA,121204.92,47.55,18,1,1,Desktop,Ad,No,Electronics,1,653.4,Europe,3,Yes
+C0109,22.0,Female,Canada,129968.52,7.42,6,5,5,Mobile,Ad,No,Home Appliances,6,890.99,Asia,0,Yes
+C0110,59.0,Female,UK,82453.02,43.13,13,4,7,Desktop,Email,No,Home Appliances,10,1054.04,Europe,0,Yes
+C0111,56.0,Female,Germany,73867.74,40.65,1,3,5,Tablet,Ad,Yes,Home Appliances,7,725.28,North America,0,No
+C0112,58.0,Male,UK,65177.68,17.73,13,6,8,Mobile,Organic,Yes,Fashion,10,811.16,North America,0,No
+C0113,45.0,Male,Canada,119506.67,42.47,7,7,13,Tablet,Organic,No,Fashion,10,699.89,Asia,0,No
+C0114,24.0,Male,USA,66039.71,56.71,15,3,4,Desktop,Email,Yes,Electronics,1,1003.62,Asia,1,Yes
+C0115,26.0,Female,UK,302721.13,7.57,12,0,1,Mobile,Organic,Yes,Home Appliances,9,802.49,Europe,1,No
+C0116,25.0,Male,UK,80407.22,22.58,1,0,7,Desktop,Ad,Yes,Electronics,4,691.9,Europe,0,No
+C0117,29.0,Male,USA,29360.13,29.1,15,0,8,Mobile,Ad,No,Home Appliances,5,566.22,North America,1,Yes
+C0118,51.0,Male,Germany,97237.74,54.46,4,0,13,Tablet,,No,Electronics,2,698.39,Asia,0,No
+C0119,50.0,Female,USA,95176.02,57.92,13,4,9,Desktop,,Yes,Fashion,10,889.58,Europe,0,No
+C0120,40.0,Female,UK,172104.87,29.43,5,3,3,Desktop,Email,Yes,Home Appliances,8,780.93,Europe,0,Yes
+C0121,41.0,Male,Germany,114012.47,46.25,2,8,5,Mobile,,No,Fashion,2,835.89,North America,0,Yes
+C0122,54.0,Male,Germany,65061.12,34.24,1,2,14,Mobile,Email,No,Home Appliances,3,1488.66,North America,0,Yes
+C0123,52.0,Female,USA,85545.53,34.58,16,6,10,Desktop,Ad,Yes,Electronics,9,779.85,North America,0,No
+C0124,61.0,Male,UK,116274.6,20.3,6,7,9,Mobile,Ad,No,Home Appliances,2,450.61,North America,3,No
+C0125,57.0,Male,Canada,33444.51,16.93,16,5,7,Desktop,,No,Fashion,6,1130.22,Europe,1,Yes
+C0126,39.0,Male,UK,192781.15,20.84,14,9,8,Mobile,Ad,No,Home Appliances,4,293.03,Asia,1,Yes
+C0127,44.0,Male,India,65147.88,35.6,3,0,11,Tablet,Email,No,Electronics,7,347.63,Asia,0,No
+C0128,52.0,Male,Canada,200490.45,6.6,15,7,4,Mobile,Email,No,Home Appliances,6,813.63,North America,0,No
+C0129,18.0,Male,Germany,120118.32,54.9,3,9,11,Tablet,Organic,No,Fashion,10,906.72,North America,0,No
+C0130,52.0,Male,Canada,135238.76,13.6,2,2,5,Mobile,Email,No,Electronics,9,315.12,Europe,3,No
+C0131,54.0,Female,Germany,175380.24,17.1,1,7,10,Mobile,Ad,No,Fashion,9,528.64,North America,0,No
+C0132,64.0,Male,Germany,131474.21,33.51,9,3,3,Desktop,Ad,No,Home Appliances,10,462.36,Asia,0,No
+C0133,31.0,Female,Canada,138198.05,44.06,9,7,4,Mobile,Email,No,Fashion,4,496.7,North America,0,Yes
+C0134,20.0,Female,Germany,90925.14,10.27,7,0,6,Mobile,Organic,No,Home Appliances,1,1171.64,Asia,1,No
+C0135,18.0,Male,Germany,118905.5,22.47,3,2,8,Tablet,Email,No,Electronics,2,1016.28,North America,0,Yes
+C0136,22.0,Female,India,73589.02,58.28,18,5,9,Mobile,Organic,Yes,Fashion,8,657.55,North America,0,Yes
+C0137,43.0,Male,UK,83141.1,19.43,11,8,10,Desktop,Ad,No,Fashion,10,479.35,Asia,0,No
+C0138,31.0,Female,UK,263642.03,22.22,7,1,12,Tablet,Organic,Yes,Home Appliances,8,295.96,Europe,1,Yes
+C0139,56.0,Male,India,65900.63,51.01,9,0,5,Desktop,Email,Yes,Fashion,2,1559.49,Europe,0,Yes
+C0140,44.0,Male,Canada,106634.09,7.76,1,9,13,Desktop,Ad,Yes,Fashion,4,948.87,North America,1,No
+C0141,26.0,Male,USA,104478.28,30.55,14,2,5,Desktop,Email,No,Electronics,1,435.28,North America,2,Yes
+C0142,32.0,Female,USA,84509.8,25.88,6,3,7,Desktop,Organic,Yes,Home Appliances,7,1024.29,Asia,0,Yes
+C0143,32.0,Female,USA,127669.54,22.41,7,4,10,Tablet,Organic,No,Home Appliances,4,637.7,Asia,0,No
+C0144,43.0,Female,India,132569.33,20.71,10,2,3,Mobile,Ad,No,Electronics,8,559.89,North America,0,No
+C0145,59.0,Male,India,62136.6,10.03,7,9,2,Desktop,Organic,No,Electronics,9,863.61,Asia,0,Yes
+C0146,30.0,Female,Germany,103847.46,22.32,2,1,13,Tablet,Ad,No,Home Appliances,9,426.28,Europe,0,No
+C0147,49.0,Male,USA,57458.39,7.37,4,1,6,Desktop,Ad,No,Electronics,3,541.18,Europe,0,Yes
+C0148,56.0,Female,Canada,146425.83,47.95,17,6,4,Mobile,Email,No,Electronics,5,715.42,Asia,0,No
+C0149,49.0,Male,Canada,107822.72,26.9,1,8,1,Tablet,Email,No,Electronics,6,492.91,Asia,0,Yes
+C0150,21.0,Male,USA,102864.2,29.41,10,9,1,Tablet,Organic,No,Home Appliances,6,993.72,Asia,0,No
+C0151,47.0,Male,USA,137244.0,54.15,19,1,10,Mobile,Ad,No,Electronics,10,2041.5,Europe,0,Yes
+C0152,54.0,Male,USA,86012.24,41.19,15,6,5,Tablet,Ad,No,Fashion,8,423.02,North America,2,Yes
+C0153,40.0,Female,India,155906.38,5.44,10,6,7,Mobile,Email,No,Fashion,6,244.92,Asia,0,Yes
+C0154,56.0,Male,India,61437.62,56.87,19,6,0,Tablet,Ad,Yes,Home Appliances,6,200.13,Asia,0,No
+C0155,62.0,Female,India,199973.12,18.04,12,2,14,Tablet,Ad,No,Electronics,4,607.72,Asia,2,No
+C0156,32.0,Male,UK,74947.59,10.92,16,6,10,Mobile,Ad,No,Fashion,7,446.8,North America,0,Yes
+C0157,60.0,Female,Canada,42273.28,47.25,9,0,5,Mobile,Email,No,Home Appliances,8,753.49,Asia,0,No
+C0158,46.0,Male,Canada,83761.82,32.53,15,9,11,Tablet,Ad,No,Fashion,3,720.22,Asia,0,Yes
+C0159,53.0,Male,Germany,79143.34,28.86,17,0,1,Tablet,Email,No,Electronics,7,254.19,Europe,1,No
+C0160,30.0,Female,India,83446.67,18.72,14,4,1,Mobile,Ad,No,Home Appliances,3,223.87,Asia,0,Yes
+C0161,49.0,Male,UK,110837.9,35.11,18,1,6,Mobile,Ad,Yes,Fashion,8,794.38,Europe,2,No
+C0162,24.0,Male,UK,170914.92,20.09,2,8,9,Tablet,Email,Yes,Home Appliances,1,721.45,North America,1,No
+C0163,39.0,Female,Canada,89692.91,54.59,4,6,0,Tablet,Ad,Yes,Fashion,1,515.18,Asia,0,No
+C0164,45.0,Female,India,69856.0,16.84,18,3,5,Tablet,Email,No,Fashion,6,246.09,Asia,0,Yes
+C0165,19.0,Male,Germany,56203.07,53.64,7,3,13,Mobile,Ad,No,Electronics,10,882.57,Europe,0,Yes
+C0166,59.0,Male,India,78112.75,35.77,13,1,6,Tablet,Email,No,Electronics,9,1426.73,North America,0,No
+C0167,62.0,Female,USA,38410.56,50.57,15,4,13,Desktop,Ad,No,Fashion,4,785.87,North America,0,Yes
+C0168,23.0,Male,India,68695.12,44.21,1,3,7,Mobile,Ad,No,Home Appliances,6,400.02,Europe,0,Yes
+C0169,45.0,Male,USA,183877.85,43.32,11,0,6,Tablet,Email,No,Home Appliances,5,683.16,North America,0,Yes
+C0170,45.0,Male,USA,65402.8,22.84,10,7,5,Mobile,,No,Electronics,1,293.05,North America,1,Yes
+C0171,61.0,Female,Germany,135179.38,17.86,33,2,8,Desktop,Ad,No,Fashion,6,4952.39,North America,0,Yes
+C0172,,Female,Canada,53463.74,16.6,16,5,12,Mobile,Email,No,Electronics,9,698.62,North America,0,No
+C0173,37.0,Male,India,239317.87,52.15,11,3,2,Tablet,Organic,Yes,Fashion,3,230.24,North America,0,No
+C0174,47.0,Male,USA,247410.3,50.12,6,8,10,Desktop,Email,No,Fashion,3,555.35,North America,0,No
+C0175,28.0,Male,India,132655.49,29.23,9,6,5,Desktop,Organic,No,Electronics,2,878.29,North America,3,Yes
+C0176,45.0,Female,Canada,267166.22,12.28,13,8,3,Tablet,Ad,Yes,Home Appliances,4,544.67,North America,0,No
+C0177,,Male,Canada,117935.89,26.02,8,9,1,Tablet,,No,Electronics,10,563.67,Asia,0,No
+C0178,56.0,Male,UK,144966.59,39.06,14,2,0,Tablet,Ad,No,Fashion,3,319.05,Europe,0,No
+C0179,50.0,Female,Canada,185529.08,29.99,1,0,11,Mobile,Ad,No,Electronics,2,934.42,North America,0,Yes
+C0180,18.0,Male,Germany,107997.05,47.91,17,4,11,Mobile,Organic,Yes,Home Appliances,1,450.75,Europe,0,No
+C0181,44.0,Female,USA,45424.7,59.87,5,2,13,Mobile,Email,No,Home Appliances,3,182.39,North America,0,No
+C0182,30.0,Male,UK,146456.2,15.51,2,5,0,Tablet,Email,No,Fashion,10,532.32,North America,2,No
+C0183,58.0,Male,Germany,77969.28,30.28,9,7,10,Tablet,Organic,Yes,Electronics,6,1198.34,Asia,1,Yes
+C0184,20.0,Male,India,80921.52,28.7,4,3,9,Mobile,Email,No,Home Appliances,9,527.34,Europe,0,Yes
+C0185,56.0,Female,USA,114570.71,21.75,17,4,2,Desktop,Ad,Yes,Electronics,5,1887.09,Europe,0,Yes
+C0186,23.0,Female,Canada,131024.61,15.9,17,4,3,Mobile,Email,Yes,Home Appliances,3,860.39,Asia,0,No
+C0187,25.0,Female,USA,106411.33,8.61,18,3,1,Desktop,Ad,Yes,Fashion,5,815.05,Asia,0,Yes
+C0188,44.0,Male,India,135654.27,53.79,16,3,12,Tablet,Organic,Yes,Fashion,5,615.82,Europe,0,No
+C0189,26.0,Female,UK,69325.73,28.09,8,3,11,Tablet,,No,Electronics,5,638.44,North America,0,No
+C0190,54.0,Male,UK,96630.35,32.33,11,3,10,Mobile,Ad,Yes,Fashion,7,567.9,North America,0,No
+C0191,50.0,Male,UK,150925.67,55.43,18,3,10,Mobile,Email,No,Home Appliances,5,554.82,Europe,0,No
+C0192,59.0,Female,Canada,239520.81,47.7,10,4,13,Tablet,Ad,No,Fashion,7,914.63,North America,0,No
+C0193,61.0,Male,Germany,285848.66,12.18,13,1,10,Mobile,Ad,No,Home Appliances,9,379.37,Asia,0,No
+C0194,41.0,Male,Germany,122576.22,36.1,17,1,0,Tablet,,No,Home Appliances,5,348.79,Asia,0,Yes
+C0195,32.0,Male,USA,150242.35,29.32,18,8,3,Tablet,Ad,No,Fashion,2,339.03,Asia,0,No
+C0196,49.0,Male,Canada,265877.13,48.85,10,1,14,Desktop,Email,No,Home Appliances,5,2269.68,Europe,0,No
+C0197,49.0,Male,UK,70585.64,44.83,16,5,6,Mobile,Organic,Yes,Home Appliances,8,914.34,Europe,1,Yes
+C0198,41.0,Female,UK,135245.91,42.97,5,1,9,Tablet,Organic,No,Electronics,4,798.47,Europe,0,No
+C0199,58.0,Male,India,144953.96,23.73,13,4,10,Mobile,Email,No,Electronics,2,352.66,North America,2,Yes
+C0200,29.0,Female,India,203603.7,49.27,18,3,5,Desktop,Email,No,Electronics,10,966.81,Europe,0,Yes
+C0201,56.0,Female,UK,55906.13,7.88,17,6,5,Desktop,Email,Yes,Fashion,3,620.21,Europe,0,Yes
+C0202,19.0,Male,UK,61715.91,13.78,9,6,10,Mobile,,No,Electronics,9,756.35,Asia,0,Yes
+C0203,20.0,Male,Canada,99776.81,23.46,14,5,8,Mobile,Email,No,Home Appliances,9,370.19,North America,0,No
+C0204,54.0,Male,Germany,119236.46,9.22,17,9,13,Tablet,Email,No,Fashion,8,732.28,North America,1,No
+C0205,34.0,Female,India,173066.64,17.92,4,4,14,Desktop,Ad,No,Fashion,8,515.79,Asia,0,No
+C0206,,Male,Germany,127870.32,50.66,18,0,1,Desktop,Ad,Yes,Fashion,8,420.16,North America,0,No
+C0207,19.0,Female,Canada,91518.22,57.15,15,2,3,Desktop,Email,No,Fashion,8,1033.25,Europe,0,Yes
+C0208,45.0,Male,UK,121568.2,21.75,11,8,4,Mobile,,Yes,Home Appliances,8,264.38,North America,0,Yes
+C0209,40.0,Female,Germany,114751.27,19.55,12,0,0,Tablet,Organic,Yes,Home Appliances,1,933.43,Asia,0,No
+C0210,54.0,Male,UK,236217.49,20.39,9,4,7,Mobile,,No,Electronics,6,1002.94,North America,0,No
+C0211,49.0,Male,UK,107240.52,20.27,13,1,7,Mobile,Email,Yes,Fashion,9,392.37,Asia,3,Yes
+C0212,50.0,Female,USA,81508.15,6.98,15,3,5,Mobile,Organic,Yes,Electronics,8,406.59,Europe,0,No
+C0213,18.0,Female,Germany,123599.84,55.98,15,0,11,Tablet,Organic,Yes,Home Appliances,3,581.83,Europe,0,No
+C0214,36.0,Male,Germany,109015.21,16.75,5,2,4,Mobile,Email,No,Fashion,1,787.78,Asia,0,No
+C0215,,Female,UK,45003.85,28.1,19,9,7,Desktop,Ad,No,Home Appliances,2,606.85,Europe,1,Yes
+C0216,61.0,Male,Canada,97946.23,5.53,14,6,2,Desktop,Email,No,Electronics,2,862.76,Europe,2,No
+C0217,43.0,Female,USA,93866.69,52.19,17,9,2,Desktop,Organic,No,Home Appliances,7,1915.6,North America,0,No
+C0218,49.0,Female,UK,75211.85,45.21,18,2,1,Tablet,Ad,Yes,Fashion,6,490.47,Europe,0,No
+C0219,23.0,Male,India,165676.38,57.07,3,3,4,Mobile,,No,Fashion,2,237.67,Asia,0,Yes
+C0220,49.0,Male,India,66646.66,47.99,2,1,2,Tablet,Ad,No,Electronics,8,1091.77,Europe,0,No
+C0221,21.0,Male,USA,123971.79,22.25,1,2,2,Mobile,Organic,No,Fashion,9,1826.19,North America,3,No
+C0222,28.0,Female,Canada,91681.1,18.63,10,8,14,Desktop,Email,Yes,Home Appliances,7,841.9,Asia,0,Yes
+C0223,34.0,Female,UK,104177.09,43.37,19,2,5,Mobile,Organic,Yes,Home Appliances,4,346.32,Europe,0,Yes
+C0224,55.0,Male,Germany,121284.36,25.03,17,4,7,Mobile,Email,No,Home Appliances,1,617.49,Europe,0,No
+C0225,41.0,Male,USA,51339.35,36.14,12,1,1,Mobile,,No,Home Appliances,4,339.98,Europe,0,No
+C0226,22.0,Female,Canada,108643.86,5.34,1,3,3,Tablet,Email,No,Electronics,4,978.2,Asia,1,No
+C0227,51.0,Female,Germany,310045.32,8.4,12,6,10,Mobile,Ad,No,Home Appliances,8,295.66,North America,0,Yes
+C0228,23.0,Female,India,45325.19,34.45,17,6,6,Mobile,Email,Yes,Electronics,4,555.53,Asia,0,No
+C0229,39.0,Male,India,95912.92,36.13,3,2,0,Mobile,Ad,No,Home Appliances,4,364.09,Asia,3,No
+C0230,28.0,Male,Germany,173099.12,46.33,11,4,0,Tablet,Ad,No,Electronics,2,717.73,North America,0,Yes
+C0231,33.0,Male,USA,114784.26,12.26,17,0,11,Tablet,Ad,Yes,Home Appliances,10,533.89,Asia,0,No
+C0232,50.0,Female,India,139244.06,33.23,3,9,12,Tablet,Organic,Yes,Home Appliances,7,739.56,Asia,0,Yes
+C0233,26.0,Male,UK,30096.59,15.69,8,9,9,Mobile,Email,Yes,Electronics,4,674.12,Europe,0,Yes
+C0234,23.0,Female,Germany,133135.77,10.13,4,9,6,Desktop,Email,Yes,Fashion,6,367.97,Asia,0,No
+C0235,33.0,Male,Germany,67450.95,27.58,7,0,13,Desktop,Ad,No,Fashion,3,968.87,Europe,0,No
+C0236,46.0,Female,India,115259.18,13.98,14,4,6,Desktop,Ad,No,Fashion,7,645.96,Asia,0,Yes
+C0237,20.0,Female,USA,97273.57,17.2,14,9,0,Mobile,,No,Electronics,6,367.56,Europe,0,Yes
+C0238,37.0,Female,UK,308404.19,22.47,4,8,0,Desktop,Email,No,Fashion,3,2551.8,Europe,0,Yes
+C0239,53.0,Male,USA,129747.78,19.27,16,0,3,Desktop,,No,Fashion,4,885.24,Europe,0,Yes
+C0240,36.0,Male,Canada,93310.52,9.82,1,0,4,Desktop,Ad,No,Electronics,10,606.71,North America,0,No
+C0241,43.0,Male,Canada,46404.59,9.95,17,3,4,Mobile,Ad,Yes,Fashion,5,1554.83,Asia,2,No
+C0242,20.0,Female,India,104880.14,15.63,10,3,3,Desktop,Organic,No,Fashion,9,2008.39,Asia,0,Yes
+C0243,36.0,Female,India,148987.02,7.78,16,1,7,Desktop,Email,No,Fashion,6,609.59,Asia,0,No
+C0244,37.0,Female,India,94818.9,39.46,16,8,6,Mobile,Ad,Yes,Electronics,4,819.29,North America,1,Yes
+C0245,49.0,Female,Canada,76662.8,20.8,8,8,8,Tablet,Ad,No,Electronics,7,367.67,Europe,0,No
+C0246,24.0,Female,USA,74139.72,20.39,7,1,6,Desktop,Organic,No,Fashion,2,608.92,Asia,0,No
+C0247,58.0,Male,USA,129000.39,23.26,6,8,14,Tablet,Email,No,Fashion,4,590.26,North America,0,No
+C0248,50.0,Female,India,144306.38,41.45,16,5,9,Desktop,Email,Yes,Electronics,5,743.15,North America,0,Yes
+C0249,57.0,Male,UK,194970.8,52.88,16,7,0,Mobile,Ad,No,Fashion,4,812.13,Asia,0,No
+C0250,56.0,Male,USA,60024.02,46.75,7,9,12,Tablet,Ad,No,Electronics,4,930.66,Europe,2,No
+C0251,35.0,Female,Canada,128410.67,45.01,9,3,13,Tablet,,Yes,Fashion,9,767.08,North America,0,No
+C0252,57.0,Male,Germany,92887.84,31.64,14,1,6,Tablet,Ad,Yes,Electronics,2,321.68,Asia,0,No
+C0253,18.0,Male,Germany,94266.66,43.16,11,1,0,Tablet,Email,No,Home Appliances,6,378.77,Europe,0,No
+C0254,28.0,Female,Germany,120681.84,35.4,14,8,6,Desktop,Organic,Yes,Home Appliances,8,479.22,North America,0,No
+C0255,45.0,Male,UK,121034.16,16.89,7,0,9,Desktop,Ad,No,Electronics,8,561.52,North America,1,No
+C0256,42.0,Female,India,128589.96,16.47,1,6,7,Tablet,Email,No,Home Appliances,7,1249.46,Asia,0,No
+C0257,40.0,Male,Canada,58178.11,21.3,13,2,10,Desktop,Email,Yes,Fashion,10,331.04,Asia,0,No
+C0258,48.0,Male,UK,67852.69,55.09,3,2,8,Tablet,Email,Yes,Electronics,4,536.76,Europe,0,No
+C0259,47.0,Male,Canada,207509.86,35.11,4,1,11,Tablet,Email,No,Electronics,7,1178.27,Asia,0,No
+C0260,,Male,Canada,88407.65,45.36,11,9,2,Mobile,Ad,Yes,Fashion,10,555.61,Asia,0,No
+C0261,52.0,Female,India,115036.78,24.06,2,5,14,Tablet,Email,Yes,Fashion,6,876.77,Europe,0,No
+C0262,24.0,Male,Germany,167264.75,27.42,14,9,3,Desktop,Email,No,Electronics,6,611.72,Asia,1,Yes
+C0263,,Female,India,124457.74,11.91,12,1,3,Tablet,Email,No,Fashion,2,775.94,Europe,0,No
+C0264,43.0,Male,UK,129736.57,14.42,17,9,11,Mobile,Ad,No,Electronics,8,579.94,Europe,0,No
+C0265,19.0,Female,UK,154397.98,50.5,12,3,8,Desktop,Email,Yes,Fashion,8,992.51,Europe,0,Yes
+C0266,18.0,Female,UK,34257.75,37.17,12,9,12,Mobile,,No,Electronics,7,263.21,Asia,0,Yes
+C0267,29.0,Female,India,77267.21,23.56,1,8,6,Mobile,Email,No,Fashion,9,534.86,Europe,0,No
+C0268,22.0,Male,Canada,124779.43,49.16,13,8,2,Tablet,Organic,No,Fashion,8,794.68,Asia,0,No
+C0269,54.0,Male,Canada,197564.85,18.56,14,5,9,Mobile,Email,No,Home Appliances,9,916.18,Europe,0,Yes
+C0270,49.0,Male,USA,102032.61,58.68,2,3,4,Mobile,Organic,Yes,Home Appliances,9,1629.08,Asia,0,No
+C0271,26.0,Female,UK,64708.11,23.96,12,6,6,Desktop,,No,Home Appliances,6,526.04,Europe,0,No
+C0272,58.0,Male,Canada,65575.47,23.55,16,0,7,Mobile,Ad,No,Fashion,2,1615.97,North America,2,No
+C0273,52.0,Male,USA,153572.89,22.16,4,3,0,Tablet,Email,No,Electronics,7,447.91,North America,0,Yes
+C0274,36.0,Female,Canada,88531.46,11.72,8,4,11,Tablet,Ad,No,Fashion,3,1476.14,North America,0,No
+C0275,33.0,Male,UK,98361.03,11.11,2,7,1,Tablet,Email,No,Home Appliances,7,1086.24,Europe,0,No
+C0276,20.0,Female,Germany,134257.53,40.65,10,1,6,Mobile,Ad,Yes,Fashion,9,384.49,Asia,0,Yes
+C0277,37.0,Male,UK,23138.15,53.13,9,4,10,Desktop,Organic,No,Home Appliances,10,799.69,Europe,0,Yes
+C0278,41.0,Male,India,268386.6,48.48,15,5,14,Tablet,Ad,Yes,Home Appliances,10,645.01,Europe,0,No
+C0279,50.0,Female,Canada,68491.37,12.76,13,4,12,Mobile,Email,No,Electronics,2,968.11,Europe,0,No
+C0280,,Male,Canada,111409.53,35.01,17,8,13,Tablet,Email,No,Electronics,6,581.75,Europe,0,Yes
+C0281,28.0,Female,India,42093.62,10.81,16,9,12,Tablet,Ad,No,Home Appliances,6,553.16,Asia,0,No
+C0282,25.0,Male,India,79915.85,7.49,2,0,14,Desktop,,Yes,Home Appliances,9,1512.41,Europe,0,No
+C0283,,Male,Germany,183936.16,41.1,14,2,1,Tablet,Organic,No,Fashion,9,626.89,North America,0,No
+C0284,55.0,Female,Canada,37870.07,34.43,3,1,6,Desktop,Email,No,Home Appliances,5,1092.1,North America,3,No
+C0285,57.0,Female,Canada,173355.56,9.51,12,2,14,Mobile,Email,No,Fashion,5,581.02,North America,0,No
+C0286,37.0,Female,Germany,86090.29,6.92,8,9,8,Tablet,Ad,Yes,Home Appliances,9,1808.04,Europe,1,No
+C0287,52.0,Male,USA,125942.69,59.44,2,8,10,Mobile,Organic,No,Electronics,8,442.75,Asia,1,Yes
+C0288,42.0,Female,Germany,137140.63,6.65,4,8,1,Mobile,Ad,Yes,Electronics,7,460.13,Asia,1,Yes
+C0289,52.0,Male,UK,123094.88,29.45,14,9,6,Mobile,Email,Yes,Home Appliances,8,1660.23,Asia,0,No
+C0290,42.0,Male,Canada,64056.75,32.75,16,1,3,Tablet,Organic,Yes,Fashion,6,509.3,Europe,2,Yes
+C0291,46.0,Female,India,82267.01,11.45,19,2,10,Desktop,Ad,Yes,Fashion,3,1738.27,Asia,0,No
+C0292,35.0,Male,UK,47535.02,14.3,2,3,12,Tablet,Organic,No,Fashion,7,1135.81,North America,0,Yes
+C0293,,Female,Canada,126234.7,24.35,12,8,1,Mobile,Ad,No,Home Appliances,8,606.2,Asia,0,Yes
+C0294,35.0,Male,Germany,231197.49,46.89,14,2,12,Desktop,,No,Home Appliances,8,224.08,Europe,0,No
+C0295,19.0,Male,UK,39647.36,32.89,6,6,6,Mobile,Ad,Yes,Electronics,1,657.48,Europe,0,No
+C0296,52.0,Female,Canada,67452.37,40.08,13,2,12,Desktop,Email,No,Electronics,7,706.96,Asia,0,No
+C0297,33.0,Female,USA,90139.37,59.18,4,6,4,Tablet,Ad,No,Home Appliances,3,1339.87,Europe,0,Yes
+C0298,58.0,Female,USA,107653.25,47.24,18,6,0,Desktop,Organic,Yes,Electronics,2,1725.15,Asia,0,Yes
+C0299,,Female,India,153213.58,28.89,12,8,4,Tablet,Email,No,Fashion,2,440.98,Asia,0,No
+C0300,50.0,Female,Canada,91482.23,29.55,19,1,11,Mobile,Ad,No,Fashion,8,1075.68,North America,0,Yes
+C0301,21.0,Female,USA,84290.18,39.03,8,5,11,Desktop,Email,No,Home Appliances,9,1052.83,Europe,3,No
+C0302,50.0,Female,Germany,171367.45,41.6,7,8,2,Mobile,Email,No,Fashion,3,1266.54,North America,0,Yes
+C0303,31.0,Male,Canada,137447.57,32.54,16,1,6,Desktop,Email,No,Home Appliances,3,897.14,Europe,0,Yes
+C0304,38.0,Male,Germany,129248.09,40.47,19,1,5,Tablet,Organic,Yes,Fashion,6,207.37,Asia,3,No
+C0305,37.0,Male,Germany,104428.49,6.29,6,4,7,Desktop,Email,No,Home Appliances,10,605.92,Europe,0,No
+C0306,25.0,Female,USA,161389.52,28.63,11,9,12,Desktop,Ad,Yes,Fashion,1,332.48,Asia,0,No
+C0307,24.0,Female,Canada,71100.19,20.34,5,9,4,Tablet,Ad,No,Fashion,6,589.01,Europe,1,No
+C0308,20.0,Male,UK,66413.32,12.1,16,9,1,Tablet,Email,No,Electronics,3,1197.51,North America,2,No
+C0309,34.0,Female,USA,143350.86,10.48,7,7,8,Tablet,Email,No,Electronics,4,798.78,North America,0,No
+C0310,50.0,Female,USA,43804.07,38.18,5,8,13,Desktop,Ad,No,Electronics,9,1324.59,Asia,0,No
+C0311,29.0,Male,Canada,103372.04,33.8,11,1,10,Mobile,Ad,No,Electronics,3,816.52,North America,2,Yes
+C0312,39.0,Female,Canada,84264.91,18.95,15,4,7,Desktop,Email,Yes,Electronics,1,305.21,Asia,0,Yes
+C0313,39.0,Female,Germany,48879.95,30.9,3,6,5,Desktop,,No,Electronics,3,146.57,Asia,0,No
+C0314,63.0,Male,Canada,61967.55,32.07,5,5,12,Mobile,Ad,No,Home Appliances,7,727.26,Asia,0,Yes
+C0315,47.0,Female,Germany,93480.86,15.73,5,5,9,Tablet,Email,No,Home Appliances,7,585.02,Europe,0,Yes
+C0316,55.0,Male,USA,165542.23,40.87,9,6,6,Desktop,Organic,No,Electronics,5,370.12,Asia,0,No
+C0317,55.0,Female,India,71219.43,47.95,15,2,8,Mobile,Organic,Yes,Home Appliances,1,239.76,North America,1,No
+C0318,62.0,Female,UK,181079.37,48.53,3,2,6,Tablet,Ad,Yes,Electronics,8,428.01,Europe,0,No
+C0319,25.0,Female,USA,101883.94,38.14,6,9,2,Tablet,Email,No,Home Appliances,10,591.88,North America,0,Yes
+C0320,44.0,Male,Canada,190078.49,33.14,17,8,5,Desktop,Organic,No,Fashion,8,991.81,Asia,0,No
+C0321,44.0,Female,UK,72966.39,8.36,8,7,10,Tablet,Ad,Yes,Home Appliances,10,744.85,Asia,0,No
+C0322,51.0,Female,India,96335.79,20.83,11,4,12,Tablet,Email,No,Home Appliances,10,1745.58,North America,0,No
+C0323,38.0,Male,India,118686.61,10.13,6,5,10,Mobile,Ad,No,Home Appliances,10,357.32,Europe,2,Yes
+C0324,47.0,Female,Germany,90241.51,58.01,8,9,6,Mobile,Ad,Yes,Fashion,2,1128.49,North America,1,Yes
+C0325,50.0,Male,UK,158976.56,12.43,10,0,1,Tablet,Email,No,Electronics,10,684.29,Asia,0,Yes
+C0326,45.0,Female,Germany,32735.59,13.35,3,9,2,Mobile,Organic,No,Home Appliances,3,1009.09,Europe,0,Yes
+C0327,,Male,USA,331440.23,53.93,14,0,3,Tablet,Ad,No,Home Appliances,4,511.88,Asia,0,Yes
+C0328,50.0,Male,UK,151582.8,56.92,14,3,9,Desktop,Email,No,Fashion,1,1265.23,Asia,2,Yes
+C0329,22.0,Male,USA,90511.67,47.12,10,1,5,Mobile,Email,No,Electronics,4,794.04,North America,0,No
+C0330,36.0,Female,Germany,74894.76,5.3,12,6,0,Tablet,Email,No,Home Appliances,5,442.45,Asia,1,No
+C0331,21.0,Male,UK,64009.69,5.07,6,1,8,Tablet,Organic,Yes,Fashion,3,660.36,North America,0,No
+C0332,52.0,Female,Germany,136326.46,25.8,12,9,4,Mobile,Ad,Yes,Electronics,10,576.09,Europe,0,Yes
+C0333,34.0,Male,UK,162346.92,12.89,14,1,12,Mobile,,No,Electronics,2,892.04,Asia,0,No
+C0334,61.0,Male,Germany,91011.12,6.01,2,4,11,Desktop,Email,No,Home Appliances,6,327.71,Asia,0,Yes
+C0335,45.0,Female,India,171698.48,30.52,9,3,13,Tablet,Email,Yes,Home Appliances,8,653.53,Europe,1,No
+C0336,47.0,Female,Germany,62715.88,56.87,10,7,6,Desktop,Organic,No,Home Appliances,7,843.18,North America,0,No
+C0337,46.0,Male,India,57416.94,22.81,17,3,8,Desktop,Ad,Yes,Home Appliances,1,678.45,Asia,0,No
+C0338,63.0,Female,Germany,244426.66,41.36,17,5,8,Desktop,Ad,No,Fashion,4,1492.44,Europe,0,No
+C0339,23.0,Female,UK,132661.27,40.87,3,4,0,Mobile,Organic,Yes,Fashion,3,1058.29,Asia,0,No
+C0340,52.0,Female,UK,198476.13,18.81,19,1,14,Desktop,Email,No,Home Appliances,6,662.16,North America,0,No
+C0341,,Male,UK,64410.38,40.77,1,7,0,Mobile,Organic,No,Electronics,9,757.49,North America,0,No
+C0342,54.0,Male,Canada,62207.9,16.68,12,1,2,Mobile,,Yes,Home Appliances,9,794.25,North America,0,No
+C0343,41.0,Female,USA,82511.7,11.71,7,8,5,Desktop,Ad,No,Electronics,7,847.24,North America,0,No
+C0344,46.0,Male,UK,65379.93,43.58,4,8,1,Desktop,Email,No,Electronics,9,222.43,Europe,0,No
+C0345,63.0,Female,India,140460.64,11.24,10,2,9,Tablet,Email,No,Electronics,8,555.06,Asia,0,No
+C0346,48.0,Female,UK,67808.1,59.83,13,3,11,Desktop,Ad,Yes,Fashion,5,272.96,Europe,0,No
+C0347,52.0,Female,Canada,54949.24,15.09,2,7,10,Tablet,Organic,No,Electronics,9,1432.2,North America,0,Yes
+C0348,50.0,Female,India,105980.22,37.68,10,8,0,Desktop,Organic,Yes,Electronics,7,641.3,North America,0,No
+C0349,38.0,Female,Canada,51792.83,27.63,4,2,0,Desktop,Email,No,Fashion,5,592.29,North America,0,No
+C0350,49.0,Male,India,40145.6,11.95,18,4,12,Desktop,Ad,No,Electronics,8,1139.2,North America,0,No
+C0351,40.0,Female,Germany,105517.13,6.53,5,7,4,Desktop,Ad,No,Electronics,7,856.96,Asia,0,Yes
+C0352,50.0,Male,USA,41166.91,39.25,19,2,3,Tablet,Ad,No,Home Appliances,9,337.92,North America,0,Yes
+C0353,20.0,Male,USA,145457.57,49.37,2,6,0,Tablet,Organic,Yes,Electronics,10,637.44,Asia,0,No
+C0354,35.0,Female,Canada,49135.31,51.31,12,7,3,Desktop,Ad,Yes,Electronics,1,543.97,North America,0,No
+C0355,42.0,Female,USA,32198.11,31.55,17,9,2,Desktop,Organic,No,Electronics,9,233.52,Asia,2,Yes
+C0356,59.0,Female,Canada,85229.4,47.76,10,2,1,Tablet,Email,Yes,Electronics,7,439.59,Asia,0,No
+C0357,,Female,Canada,106116.97,42.01,2,1,8,Mobile,Organic,Yes,Electronics,1,595.78,North America,0,No
+C0358,20.0,Male,Canada,126214.43,44.83,6,9,13,Mobile,Email,No,Fashion,1,620.81,Europe,0,Yes
+C0359,57.0,Male,USA,107581.92,32.09,8,6,14,Mobile,Email,Yes,Electronics,5,273.32,Europe,0,No
+C0360,63.0,Female,Canada,58124.57,39.84,19,8,10,Tablet,Email,No,Electronics,8,1327.43,Europe,0,Yes
+C0361,41.0,Male,USA,141002.17,49.3,11,0,0,Tablet,Organic,Yes,Fashion,9,625.62,Europe,1,No
+C0362,49.0,Male,Canada,159543.08,26.88,12,2,6,Mobile,Email,No,Fashion,6,680.3,Europe,0,No
+C0363,64.0,Male,UK,54020.5,49.33,9,4,13,Mobile,Email,No,Electronics,10,845.89,North America,0,No
+C0364,39.0,Male,Canada,90174.05,37.56,2,2,12,Desktop,Email,No,Electronics,8,414.53,North America,0,No
+C0365,40.0,Male,India,86058.28,14.12,8,0,3,Tablet,Ad,Yes,Electronics,6,874.64,North America,0,No
+C0366,19.0,Male,Canada,110215.28,6.36,11,6,4,Tablet,Email,No,Home Appliances,6,533.66,North America,0,No
+C0367,44.0,Male,Germany,89102.09,24.95,4,6,9,Mobile,,No,Home Appliances,4,388.41,North America,1,No
+C0368,59.0,Male,Canada,95421.68,35.07,10,9,4,Mobile,Ad,No,Electronics,5,938.3,North America,2,No
+C0369,19.0,Female,India,136067.69,51.19,16,7,0,Tablet,Ad,No,Fashion,2,1627.83,Asia,0,No
+C0370,43.0,Male,India,56560.91,12.01,8,4,5,Desktop,Ad,No,Electronics,3,1027.51,Asia,2,Yes
+C0371,34.0,Male,USA,142726.65,49.01,4,9,12,Mobile,Email,Yes,Fashion,3,1157.23,North America,0,No
+C0372,57.0,Female,UK,174654.74,52.47,10,4,8,Tablet,Ad,No,Fashion,5,486.69,North America,0,No
+C0373,50.0,Male,Canada,223477.83,13.29,12,4,1,Tablet,Email,No,Fashion,5,255.04,Asia,0,Yes
+C0374,26.0,Female,USA,33803.39,51.84,14,0,6,Desktop,Ad,No,Electronics,6,1626.33,Asia,0,No
+C0375,60.0,Female,UK,90088.62,59.53,16,9,5,Desktop,Ad,Yes,Electronics,5,2281.78,North America,1,No
+C0376,56.0,Male,Canada,36954.76,44.98,18,4,4,Mobile,Organic,No,Fashion,6,1678.55,Asia,3,No
+C0377,46.0,Male,Germany,29215.89,48.16,12,5,3,Mobile,Ad,No,Home Appliances,8,543.77,Europe,1,No
+C0378,59.0,Female,Canada,106090.37,59.69,18,0,3,Mobile,,Yes,Home Appliances,2,332.69,Europe,0,No
+C0379,43.0,Female,India,80855.92,38.3,7,6,5,Tablet,Ad,Yes,Home Appliances,4,350.93,Europe,0,No
+C0380,52.0,Male,India,114682.82,21.93,7,0,3,Mobile,Email,Yes,Fashion,6,242.2,Asia,0,No
+C0381,42.0,Female,Germany,125877.42,51.06,9,1,4,Tablet,Ad,No,Electronics,5,623.64,North America,0,No
+C0382,41.0,Male,USA,184231.42,38.8,1,1,12,Mobile,Ad,Yes,Fashion,1,1743.08,North America,0,No
+C0383,30.0,Female,UK,101413.37,36.97,6,4,5,Desktop,,No,Home Appliances,9,610.94,North America,0,No
+C0384,24.0,Male,Canada,425779.89,18.95,6,9,4,Desktop,Organic,No,Electronics,3,797.43,Asia,2,No
+C0385,53.0,Female,India,115059.53,46.6,12,6,6,Tablet,Ad,No,Fashion,2,1518.32,Asia,1,Yes
+C0386,62.0,Female,USA,248013.76,9.49,12,0,8,Desktop,Email,No,Fashion,9,521.93,Europe,0,Yes
+C0387,37.0,Female,Germany,30748.03,55.84,10,9,9,Tablet,Email,Yes,Home Appliances,7,2255.93,Asia,0,No
+C0388,18.0,Female,India,193855.78,22.92,6,0,6,Tablet,Ad,No,Fashion,5,2197.9,Europe,0,Yes
+C0389,,Male,Germany,90185.12,12.03,17,0,6,Desktop,Ad,No,Electronics,6,614.82,Europe,0,No
+C0390,63.0,Male,Canada,37265.62,29.33,19,5,3,Tablet,,Yes,Home Appliances,4,470.35,North America,0,No
+C0391,33.0,Male,UK,121816.68,7.34,18,1,0,Desktop,,Yes,Home Appliances,1,1010.64,Asia,0,Yes
+C0392,31.0,Male,India,84839.98,42.65,6,0,13,Mobile,,No,Electronics,4,539.95,North America,0,Yes
+C0393,29.0,Female,India,131929.98,54.65,19,5,7,Mobile,Organic,No,Home Appliances,9,332.31,North America,0,No
+C0394,40.0,Male,Canada,163658.67,51.05,10,1,3,Desktop,Email,No,Fashion,1,1434.75,Asia,0,No
+C0395,32.0,Male,USA,46883.68,12.01,30,5,0,Desktop,Ad,Yes,Fashion,10,4934.39,Asia,1,No
+C0396,45.0,Female,UK,163973.4,11.94,6,9,4,Desktop,Ad,No,Home Appliances,3,730.19,Europe,0,No
+C0397,51.0,Female,India,99036.1,49.74,7,7,13,Desktop,Ad,Yes,Electronics,5,311.77,Europe,1,Yes
+C0398,19.0,Female,UK,194156.65,55.83,1,1,13,Mobile,Email,No,Fashion,7,318.07,Europe,0,Yes
+C0399,49.0,Female,India,89092.09,30.34,18,8,7,Tablet,Organic,No,Electronics,9,709.34,Europe,0,No
+C0400,40.0,Male,UK,78025.86,32.44,12,7,3,Tablet,Organic,No,Fashion,6,492.79,North America,0,No
+C0401,39.0,Male,Germany,100060.17,22.5,16,9,12,Mobile,,Yes,Fashion,3,542.04,North America,0,No
+C0402,42.0,Female,India,103873.63,54.18,29,0,11,Tablet,Organic,No,Home Appliances,7,5093.39,Asia,0,No
+C0403,39.0,Female,UK,70870.36,40.47,10,6,7,Mobile,,Yes,Home Appliances,4,1032.67,Europe,0,No
+C0404,39.0,Male,USA,77022.1,20.85,14,9,7,Tablet,Ad,No,Electronics,3,1520.64,Europe,0,Yes
+C0405,59.0,Female,Germany,53453.22,21.43,10,5,2,Desktop,Organic,No,Home Appliances,7,367.1,Europe,0,Yes
+C0406,23.0,Male,Germany,79433.66,54.02,10,5,8,Desktop,Email,Yes,Fashion,7,541.36,North America,1,No
+C0407,32.0,Male,USA,138434.84,5.75,11,5,2,Desktop,Ad,No,Fashion,4,1048.79,Asia,0,Yes
+C0408,60.0,Female,UK,92163.82,22.75,2,5,0,Mobile,,No,Electronics,7,870.31,North America,1,Yes
+C0409,54.0,Female,Canada,163494.18,35.49,8,9,1,Mobile,Organic,No,Electronics,2,1668.08,Asia,0,No
+C0410,50.0,Female,USA,89974.83,13.15,7,6,14,Tablet,Ad,No,Fashion,1,856.04,Asia,1,No
+C0411,25.0,Male,UK,48254.34,10.07,8,2,5,Tablet,Ad,No,Home Appliances,2,2015.99,North America,2,No
+C0412,61.0,Female,USA,133070.91,49.84,1,5,11,Tablet,Email,No,Home Appliances,4,919.67,North America,0,Yes
+C0413,61.0,Male,USA,70487.34,54.19,2,2,9,Mobile,Email,Yes,Electronics,8,1258.03,Asia,0,No
+C0414,22.0,Male,India,87843.87,50.3,18,6,1,Tablet,,No,Electronics,3,547.79,North America,0,No
+C0415,56.0,Female,UK,183282.88,54.43,15,6,5,Desktop,Ad,No,Fashion,10,670.87,North America,0,Yes
+C0416,21.0,Female,Canada,55246.75,35.42,1,7,13,Tablet,Ad,No,Fashion,6,1148.91,Asia,0,Yes
+C0417,23.0,Female,India,107191.46,49.67,5,1,0,Desktop,Ad,No,Electronics,6,1750.73,Asia,0,No
+C0418,62.0,Female,USA,96735.99,26.12,2,8,10,Mobile,Ad,No,Fashion,9,1030.23,Europe,1,No
+C0419,49.0,Female,USA,140149.2,41.64,3,4,12,Desktop,Ad,Yes,Electronics,9,632.76,North America,1,No
+C0420,47.0,Female,USA,151384.26,59.39,19,8,0,Desktop,,Yes,Electronics,4,1519.9,Asia,0,Yes
+C0421,64.0,Male,UK,112636.32,17.42,18,9,4,Desktop,Ad,No,Home Appliances,9,178.54,North America,0,No
+C0422,52.0,Male,UK,82438.9,26.44,18,4,9,Mobile,Email,No,Electronics,6,283.34,North America,0,No
+C0423,57.0,Male,India,125077.18,31.4,14,6,12,Mobile,Ad,No,Fashion,2,1001.23,Asia,0,No
+C0424,33.0,Male,Canada,192495.48,12.59,8,8,10,Mobile,Ad,No,Home Appliances,10,670.8,Europe,0,No
+C0425,30.0,Female,India,97377.95,9.46,12,3,8,Mobile,Organic,Yes,Home Appliances,6,956.53,Asia,0,Yes
+C0426,59.0,Male,Germany,86367.95,50.63,10,1,13,Tablet,Email,No,Fashion,2,691.35,Asia,2,No
+C0427,47.0,Male,USA,119860.65,58.72,17,8,7,Mobile,Organic,No,Fashion,8,936.89,North America,0,Yes
+C0428,36.0,Male,USA,100645.88,27.26,11,1,2,Desktop,Email,No,Fashion,4,408.04,Europe,0,Yes
+C0429,34.0,Female,USA,50571.59,9.82,2,2,14,Mobile,Ad,No,Electronics,5,936.63,Asia,0,No
+C0430,36.0,Male,India,111264.49,8.62,4,9,2,Tablet,Email,No,Home Appliances,8,1207.91,North America,0,No
+C0431,45.0,Female,India,50343.2,54.02,1,1,14,Tablet,Ad,No,Electronics,8,1383.44,Asia,0,Yes
+C0432,43.0,Male,USA,119043.03,30.51,15,2,0,Tablet,Organic,No,Electronics,6,2226.38,North America,0,No
+C0433,54.0,Male,India,66265.76,22.6,13,5,13,Desktop,Ad,No,Electronics,4,770.05,Asia,0,Yes
+C0434,43.0,Female,UK,100552.72,31.21,8,2,2,Mobile,Email,No,Electronics,1,783.95,Europe,0,No
+C0435,40.0,Female,UK,120005.99,22.51,4,9,14,Mobile,Ad,No,Home Appliances,7,266.69,Asia,0,No
+C0436,26.0,Male,India,336701.37,31.9,10,7,13,Mobile,Email,No,Home Appliances,8,483.55,North America,0,Yes
+C0437,29.0,Female,USA,143110.88,52.28,19,5,11,Desktop,,No,Electronics,9,592.38,Asia,0,Yes
+C0438,18.0,Female,India,195320.95,37.58,18,6,11,Desktop,Email,No,Fashion,2,1249.12,Europe,0,No
+C0439,18.0,Male,India,251669.98,43.21,5,0,11,Tablet,Email,No,Home Appliances,1,461.0,Europe,0,Yes
+C0440,64.0,Female,India,126074.46,25.06,19,2,12,Tablet,,Yes,Electronics,4,1072.56,Europe,1,Yes
+C0441,51.0,Female,Germany,113873.66,45.62,16,2,10,Mobile,Email,No,Fashion,5,664.49,Europe,0,No
+C0442,49.0,Female,UK,57909.66,41.66,1,1,0,Desktop,Ad,No,Fashion,10,598.06,North America,3,No
+C0443,42.0,Female,Canada,93123.8,11.58,12,6,7,Desktop,Ad,No,Electronics,1,772.27,Asia,0,No
+C0444,,Female,Canada,68765.41,36.5,2,8,0,Mobile,Organic,No,Home Appliances,5,526.0,Europe,0,Yes
+C0445,62.0,Female,Germany,80778.86,19.12,8,3,4,Mobile,Organic,Yes,Fashion,6,514.18,Asia,0,No
+C0446,18.0,Female,India,251533.56,49.23,18,4,8,Tablet,Ad,Yes,Home Appliances,3,239.16,North America,0,No
+C0447,33.0,Female,Germany,104538.51,28.43,16,2,6,Tablet,Ad,Yes,Home Appliances,7,573.2,Asia,0,Yes
+C0448,56.0,Female,Germany,63707.03,59.71,5,8,3,Tablet,,No,Fashion,6,498.71,Asia,0,No
+C0449,22.0,Female,USA,196273.96,10.09,13,3,10,Mobile,Ad,No,Electronics,4,488.05,Europe,0,Yes
+C0450,39.0,Female,UK,159155.62,47.92,19,4,8,Mobile,Email,No,Fashion,3,854.16,Europe,0,No
+C0451,46.0,Male,Canada,163378.81,42.05,3,0,8,Tablet,Ad,No,Fashion,5,987.5,North America,0,No
+C0452,20.0,Female,India,36204.36,47.21,8,1,1,Tablet,Organic,No,Home Appliances,3,764.57,Asia,0,No
+C0453,29.0,Female,Canada,261538.16,21.91,12,8,9,Desktop,Ad,Yes,Electronics,10,1208.64,North America,0,Yes
+C0454,43.0,Male,Canada,74663.2,32.06,2,1,9,Desktop,Email,Yes,Home Appliances,9,939.49,North America,0,Yes
+C0455,33.0,Female,UK,145652.28,48.81,11,4,10,Tablet,Ad,No,Fashion,9,557.22,North America,0,No
+C0456,54.0,Male,Canada,348676.52,17.79,12,7,11,Tablet,Email,No,Electronics,6,503.85,Europe,0,No
+C0457,39.0,Male,Canada,290008.75,17.43,18,2,5,Desktop,Organic,No,Electronics,6,802.47,Europe,0,Yes
+C0458,46.0,Female,Germany,60549.65,35.31,13,5,3,Tablet,Ad,No,Electronics,4,938.48,Asia,0,Yes
+C0459,31.0,Male,UK,47941.72,33.8,33,3,7,Desktop,Email,No,Electronics,4,5099.39,Asia,0,Yes
+C0460,45.0,Female,USA,201828.44,20.52,12,6,11,Desktop,Email,Yes,Electronics,2,1359.27,Asia,0,No
+C0461,22.0,Female,India,105982.36,21.39,2,9,10,Desktop,Ad,No,Fashion,10,480.64,Europe,0,Yes
+C0462,64.0,Female,Canada,76846.04,20.28,5,2,6,Mobile,Organic,No,Fashion,4,625.65,Europe,0,No
+C0463,47.0,Male,India,134673.59,47.43,7,5,6,Mobile,Ad,No,Fashion,8,994.87,North America,0,Yes
+C0464,63.0,Male,USA,90995.03,40.85,12,9,10,Tablet,Organic,Yes,Home Appliances,10,1262.44,Europe,2,No
+C0465,22.0,Female,India,140177.12,50.78,16,8,9,Desktop,Ad,No,Electronics,2,1168.39,North America,0,Yes
+C0466,29.0,Female,USA,102077.84,58.65,8,9,8,Mobile,Ad,No,Electronics,9,640.13,North America,0,No
+C0467,33.0,Female,Germany,141661.26,31.08,9,0,12,Tablet,Ad,Yes,Fashion,1,313.43,Europe,0,Yes
+C0468,43.0,Male,Canada,63116.26,8.67,15,2,4,Tablet,Email,No,Electronics,2,365.27,North America,0,Yes
+C0469,43.0,Female,USA,201235.47,7.65,5,1,5,Tablet,Email,Yes,Home Appliances,2,783.35,North America,0,No
+C0470,38.0,Female,India,139917.98,21.26,13,7,0,Tablet,Organic,No,Electronics,6,816.75,Asia,0,Yes
+C0471,56.0,Female,Canada,136372.95,56.29,5,6,5,Tablet,Ad,No,Electronics,7,344.05,North America,0,Yes
+C0472,53.0,Male,Germany,56453.07,33.78,11,1,1,Desktop,Ad,No,Home Appliances,3,683.17,Europe,0,No
+C0473,50.0,Female,Canada,230917.6,19.95,10,5,5,Tablet,Organic,No,Fashion,9,971.4,Europe,0,No
+C0474,47.0,Female,USA,98041.09,26.95,13,2,8,Desktop,Organic,Yes,Fashion,5,333.37,North America,0,Yes
+C0475,54.0,Female,Germany,142062.79,37.92,37,7,7,Mobile,Ad,Yes,Electronics,5,5366.39,Asia,0,No
+C0476,40.0,Male,India,84001.32,40.91,25,9,8,Tablet,Email,Yes,Home Appliances,4,5401.39,Europe,0,No
+C0477,27.0,Female,Germany,112470.31,13.47,18,2,12,Mobile,Ad,Yes,Fashion,9,1414.55,Europe,0,Yes
+C0478,22.0,Female,Germany,114526.75,58.74,15,9,14,Desktop,Organic,No,Fashion,8,482.96,Asia,0,No
+C0479,53.0,Male,UK,24101.62,34.96,10,8,9,Desktop,Organic,Yes,Fashion,4,359.25,North America,1,No
+C0480,,Female,Germany,132088.05,12.46,7,0,7,Mobile,Organic,No,Electronics,4,505.28,Europe,0,No
+C0481,48.0,Female,Germany,263727.26,54.15,8,4,2,Tablet,Organic,No,Home Appliances,2,628.23,North America,0,Yes
+C0482,27.0,Male,Canada,129299.94,9.11,3,2,7,Tablet,Ad,No,Electronics,9,526.85,North America,0,Yes
+C0483,36.0,Male,India,61153.71,54.93,15,5,5,Mobile,Organic,No,Fashion,3,584.29,North America,0,No
+C0484,49.0,Female,Canada,136623.03,59.81,16,9,12,Mobile,Email,No,Home Appliances,4,812.71,North America,0,No
+C0485,18.0,Male,Canada,167667.86,43.52,4,1,5,Mobile,Ad,No,Electronics,7,600.22,Europe,0,Yes
+C0486,22.0,Female,USA,127546.11,47.37,6,8,5,Tablet,Email,Yes,Fashion,10,639.27,Asia,0,No
+C0487,62.0,Male,Canada,95123.99,23.55,1,5,2,Tablet,,No,Fashion,8,238.52,Europe,0,No
+C0488,21.0,Female,UK,87459.0,56.79,4,6,9,Tablet,Organic,No,Electronics,8,841.36,Asia,0,No
+C0489,33.0,Male,UK,87277.25,34.13,11,4,0,Mobile,Ad,No,Fashion,4,630.48,North America,0,No
+C0490,41.0,Female,USA,139928.72,45.28,12,8,11,Tablet,Organic,No,Fashion,7,1747.91,Asia,0,No
+C0491,33.0,Female,India,48846.5,55.83,5,0,13,Desktop,Organic,No,Home Appliances,10,378.52,North America,0,Yes
+C0492,19.0,Female,India,81966.3,58.63,16,4,3,Mobile,Ad,No,Fashion,1,224.76,Europe,0,No
+C0493,,Female,Canada,219214.27,50.83,13,9,9,Tablet,Email,No,Electronics,6,963.76,Europe,0,Yes
+C0494,49.0,Male,Canada,223484.57,21.67,13,5,11,Mobile,Organic,No,Home Appliances,6,818.86,Asia,0,Yes
+C0495,44.0,Female,Canada,47142.32,58.16,17,6,5,Desktop,Email,No,Electronics,6,363.2,North America,0,No
+C0496,37.0,Male,India,56066.47,39.55,7,3,10,Desktop,Ad,No,Fashion,2,265.64,North America,0,No
+C0497,41.0,Male,Germany,86222.78,56.19,8,0,11,Mobile,Organic,Yes,Home Appliances,8,1673.11,Asia,0,No
+C0498,29.0,Male,UK,154244.57,42.19,13,7,9,Mobile,,No,Home Appliances,5,1553.81,North America,0,No
+C0499,52.0,Male,Germany,39587.27,21.9,16,9,1,Desktop,Email,No,Home Appliances,5,149.53,North America,0,No
+C0500,50.0,Female,Germany,96047.26,25.35,4,3,6,Mobile,Organic,Yes,Home Appliances,2,505.26,North America,0,No
+C0501,50.0,Female,India,77878.91,35.28,8,2,6,Desktop,Ad,No,Electronics,4,1805.36,Europe,0,Yes
+C0502,60.0,Male,Germany,191564.98,48.45,16,6,10,Desktop,Ad,No,Fashion,9,499.88,Europe,0,No
+C0503,54.0,Male,USA,42682.56,22.49,10,1,3,Tablet,Email,No,Fashion,9,495.53,Europe,0,No
+C0504,29.0,Female,Canada,103390.7,36.89,12,7,3,Mobile,Ad,Yes,Home Appliances,6,561.35,North America,3,Yes
+C0505,20.0,Male,USA,81080.3,24.01,12,5,14,Mobile,Organic,No,Fashion,9,339.5,Europe,0,No
+C0506,18.0,Male,UK,205849.27,49.87,5,6,0,Tablet,Ad,No,Electronics,4,239.16,North America,0,No
+C0507,50.0,Male,Canada,133096.05,30.67,16,4,12,Desktop,Email,No,Fashion,1,1250.79,North America,0,No
+C0508,57.0,Female,Germany,73650.94,9.22,1,8,1,Mobile,Ad,No,Electronics,2,220.13,Asia,0,Yes
+C0509,27.0,Female,UK,151250.58,14.13,9,4,8,Tablet,,No,Electronics,1,771.52,North America,1,No
+C0510,60.0,Male,Canada,81274.34,8.36,12,4,9,Tablet,Ad,Yes,Fashion,8,1132.23,Europe,0,Yes
+C0511,61.0,Male,Germany,162700.25,32.46,5,2,7,Mobile,Ad,No,Electronics,9,278.46,Europe,0,No
+C0512,46.0,Female,USA,87681.09,10.85,3,0,7,Tablet,Ad,Yes,Electronics,10,382.01,North America,0,No
+C0513,30.0,Female,Canada,167264.77,11.28,5,1,8,Desktop,Organic,No,Electronics,6,1377.34,Europe,0,No
+C0514,29.0,Male,Germany,122766.69,56.76,2,7,14,Tablet,Ad,No,Electronics,2,915.74,North America,3,Yes
+C0515,48.0,Female,USA,503956.65,53.0,14,0,6,Desktop,Ad,No,Home Appliances,6,459.27,Asia,1,Yes
+C0516,63.0,Male,UK,96139.16,29.86,2,6,12,Desktop,Ad,Yes,Fashion,9,1368.33,North America,0,No
+C0517,19.0,Male,UK,119542.97,59.22,13,4,8,Mobile,Organic,No,Home Appliances,3,1371.86,North America,0,No
+C0518,52.0,Female,UK,77674.91,5.01,7,2,9,Tablet,Ad,Yes,Electronics,9,781.67,Asia,0,No
+C0519,40.0,Male,UK,98848.4,38.77,10,6,11,Desktop,Ad,No,Fashion,2,387.57,Europe,0,No
+C0520,34.0,Female,India,25567.63,38.9,13,8,1,Desktop,Ad,No,Electronics,5,519.01,Asia,0,Yes
+C0521,43.0,Male,Canada,124591.04,30.16,16,1,5,Tablet,Email,No,Fashion,2,789.84,Asia,0,Yes
+C0522,25.0,Male,Canada,193191.48,26.83,14,7,14,Desktop,Organic,No,Home Appliances,7,593.98,North America,2,Yes
+C0523,46.0,Female,India,120368.72,30.05,11,8,2,Tablet,Email,Yes,Fashion,10,1168.38,North America,0,Yes
+C0524,43.0,Male,Germany,51178.22,27.82,10,2,10,Mobile,,No,Electronics,9,265.64,Asia,0,Yes
+C0525,27.0,Female,Germany,66112.06,45.18,6,1,14,Desktop,,No,Fashion,7,271.36,Europe,0,Yes
+C0526,43.0,Male,UK,29287.14,12.44,4,6,5,Desktop,Ad,No,Fashion,5,741.39,Asia,1,No
+C0527,51.0,Male,USA,161048.69,15.87,1,4,2,Tablet,Organic,No,Home Appliances,4,495.26,Europe,0,Yes
+C0528,58.0,Male,Germany,59679.47,14.93,7,4,7,Tablet,Organic,No,Electronics,4,456.58,Asia,0,No
+C0529,24.0,Female,USA,97308.9,19.44,9,9,14,Tablet,Organic,No,Fashion,10,230.25,Asia,0,No
+C0530,21.0,Male,Canada,91411.92,33.89,8,4,10,Tablet,Email,No,Home Appliances,8,672.99,Europe,1,No
+C0531,62.0,Female,USA,207702.81,11.12,5,3,14,Desktop,Email,No,Fashion,10,644.42,Asia,2,No
+C0532,28.0,Male,Canada,103016.11,52.75,19,4,12,Mobile,Email,No,Electronics,10,984.45,North America,0,No
+C0533,46.0,Female,India,147922.9,21.35,10,3,3,Mobile,Organic,No,Fashion,10,693.22,Asia,0,Yes
+C0534,53.0,Male,India,129732.75,13.94,11,5,11,Mobile,Ad,Yes,Fashion,10,614.27,North America,0,Yes
+C0535,42.0,Female,UK,194795.53,42.16,15,3,9,Mobile,Ad,No,Fashion,10,1347.76,Europe,0,Yes
+C0536,38.0,Female,Germany,87591.4,7.09,6,1,5,Tablet,Ad,Yes,Fashion,1,302.63,Europe,0,Yes
+C0537,53.0,Female,UK,251401.78,39.1,15,8,14,Desktop,Ad,Yes,Electronics,5,917.67,North America,0,No
+C0538,27.0,Female,Canada,36576.78,43.4,5,1,8,Desktop,Email,No,Home Appliances,2,244.04,Asia,0,No
+C0539,54.0,Female,UK,151559.98,16.82,19,8,1,Desktop,Ad,No,Home Appliances,9,402.21,North America,2,No
+C0540,26.0,Female,USA,64003.32,7.31,19,9,1,Tablet,Ad,Yes,Fashion,7,321.31,North America,0,Yes
+C0541,41.0,Male,Canada,77159.13,25.0,10,5,6,Desktop,,No,Electronics,10,1063.34,Europe,0,No
+C0542,52.0,Male,India,131230.05,10.42,12,8,14,Tablet,Email,No,Electronics,8,639.54,North America,0,Yes
+C0543,52.0,Female,Germany,130705.38,11.41,4,8,1,Desktop,Organic,No,Electronics,6,659.77,Asia,1,No
+C0544,53.0,Female,Canada,133681.32,18.98,18,2,1,Mobile,Ad,No,Electronics,9,342.39,North America,0,Yes
+C0545,35.0,Female,Canada,49361.25,21.25,16,0,3,Tablet,Ad,No,Electronics,6,555.68,Europe,0,Yes
+C0546,56.0,Male,USA,203722.72,34.15,8,0,8,Desktop,Organic,No,Electronics,7,420.7,Asia,0,Yes
+C0547,49.0,Male,Germany,62923.59,42.31,29,2,7,Mobile,Organic,Yes,Fashion,7,4968.39,Europe,0,No
+C0548,41.0,Male,India,67262.39,37.6,12,4,1,Mobile,Ad,Yes,Home Appliances,9,366.99,North America,0,Yes
+C0549,40.0,Female,Canada,135801.34,13.16,2,2,7,Mobile,,Yes,Home Appliances,8,1477.16,North America,2,Yes
+C0550,49.0,Male,Canada,85531.45,14.46,4,8,3,Tablet,,No,Fashion,1,243.39,Europe,3,No
+C0551,54.0,Male,USA,115166.07,53.33,5,8,1,Tablet,,No,Home Appliances,4,409.97,Europe,3,No
+C0552,29.0,Male,UK,33580.46,35.71,3,2,10,Desktop,Email,No,Electronics,7,1819.51,Asia,0,Yes
+C0553,30.0,Male,India,113795.95,52.85,9,2,9,Mobile,Ad,No,Electronics,8,512.3,Europe,2,No
+C0554,40.0,Female,Germany,110074.86,25.44,18,4,6,Desktop,Email,No,Home Appliances,7,302.2,Europe,3,Yes
+C0555,42.0,Male,Canada,76501.89,38.79,11,1,5,Desktop,Email,Yes,Electronics,3,758.58,North America,2,Yes
+C0556,52.0,Female,Canada,34995.05,33.8,3,5,13,Mobile,Ad,No,Electronics,4,500.08,North America,0,No
+C0557,58.0,Male,India,88751.52,22.55,2,6,9,Desktop,Organic,No,Home Appliances,7,402.82,Europe,0,No
+C0558,47.0,Male,UK,96888.21,30.85,9,8,4,Tablet,Ad,Yes,Fashion,8,344.63,Europe,0,No
+C0559,34.0,Male,Canada,82156.85,32.64,14,5,10,Desktop,Email,Yes,Home Appliances,7,3501.77,North America,1,No
+C0560,37.0,Male,India,39415.43,16.04,4,2,0,Mobile,Ad,No,Home Appliances,6,571.96,Asia,0,No
+C0561,42.0,Male,USA,219118.29,22.33,9,4,1,Tablet,Organic,No,Home Appliances,9,209.49,Asia,0,No
+C0562,39.0,Male,UK,71723.18,48.53,13,3,7,Tablet,Ad,No,Home Appliances,9,1629.82,Asia,3,No
+C0563,30.0,Female,Germany,88335.53,55.37,18,4,0,Desktop,Organic,No,Fashion,7,959.72,Asia,0,No
+C0564,36.0,Male,Canada,29592.1,24.79,15,7,2,Desktop,Email,No,Fashion,8,419.94,North America,0,Yes
+C0565,53.0,Female,India,219131.59,21.88,10,7,1,Tablet,Organic,Yes,Electronics,6,379.98,Europe,3,No
+C0566,29.0,Female,USA,78176.55,15.74,16,5,4,Desktop,,No,Electronics,1,996.34,Asia,3,No
+C0567,58.0,Female,Germany,103697.31,42.32,12,0,3,Mobile,Email,No,Home Appliances,1,573.55,North America,0,No
+C0568,36.0,Male,India,172882.72,22.77,5,7,12,Desktop,,No,Electronics,6,209.43,Europe,1,No
+C0569,,Male,India,70392.91,59.33,2,7,6,Desktop,Ad,No,Fashion,2,1943.69,Asia,0,Yes
+C0570,26.0,Male,Germany,159791.08,22.91,10,1,4,Tablet,Ad,No,Electronics,8,512.66,Europe,0,No
+C0571,24.0,Male,USA,35218.87,26.68,1,3,7,Desktop,Ad,No,Electronics,1,1631.64,Asia,0,Yes
+C0572,45.0,Female,USA,130026.47,38.18,7,1,3,Desktop,Ad,No,Electronics,2,1432.33,Europe,0,No
+C0573,31.0,Male,UK,216667.91,49.09,17,3,14,Desktop,Organic,No,Home Appliances,8,364.82,Asia,0,No
+C0574,48.0,Male,Canada,73850.02,30.82,16,9,11,Mobile,Ad,No,Electronics,6,1236.34,Asia,0,Yes
+C0575,,Female,Germany,172722.37,28.25,3,6,5,Desktop,Email,Yes,Fashion,10,449.95,Europe,2,No
+C0576,64.0,Female,Germany,246954.98,59.76,14,8,3,Mobile,Email,No,Fashion,2,217.02,Europe,0,No
+C0577,33.0,Female,Germany,86905.72,5.58,10,7,1,Mobile,Email,No,Fashion,2,515.55,Europe,1,Yes
+C0578,22.0,Male,USA,83386.01,54.23,7,8,0,Mobile,Email,No,Fashion,7,844.36,North America,0,No
+C0579,52.0,Male,Canada,62997.68,13.2,17,7,13,Mobile,Organic,Yes,Electronics,5,503.89,North America,0,No
+C0580,29.0,Female,UK,76506.8,48.23,6,1,13,Tablet,Ad,No,Home Appliances,5,553.23,Europe,2,No
+C0581,42.0,Male,India,65664.92,38.99,4,6,0,Mobile,Ad,No,Fashion,8,1320.99,North America,1,Yes
+C0582,38.0,Male,India,62971.94,23.8,17,1,7,Desktop,Email,No,Fashion,7,709.03,Asia,0,No
+C0583,53.0,Male,Germany,179767.14,53.06,9,1,13,Mobile,Email,No,Home Appliances,9,401.02,Europe,0,No
+C0584,40.0,Male,Canada,66505.3,5.71,4,3,3,Desktop,Email,No,Home Appliances,4,1013.55,North America,0,No
+C0585,33.0,Male,USA,112337.27,17.47,7,0,4,Mobile,Organic,No,Fashion,10,748.9,Europe,0,No
+C0586,56.0,Male,Canada,100621.05,36.18,2,4,10,Tablet,Email,No,Fashion,4,146.5,Asia,1,No
+C0587,62.0,Female,Canada,208782.28,24.33,17,5,7,Mobile,Email,No,Home Appliances,2,860.07,Asia,0,No
+C0588,59.0,Female,USA,76758.69,38.57,8,8,11,Mobile,Ad,Yes,Fashion,3,841.43,North America,0,No
+C0589,56.0,Female,Germany,119440.55,6.33,15,9,14,Tablet,Email,Yes,Fashion,1,673.22,Asia,0,No
+C0590,31.0,Male,Canada,146610.52,11.41,15,7,6,Mobile,Organic,No,Electronics,1,1135.72,Europe,0,Yes
+C0591,48.0,Male,India,207912.96,11.99,8,1,12,Desktop,Ad,No,Home Appliances,7,444.33,North America,0,No
+C0592,22.0,Male,USA,76200.5,15.41,16,0,7,Mobile,Ad,No,Electronics,5,813.95,Europe,0,No
+C0593,52.0,Female,UK,72479.12,30.26,19,1,12,Mobile,Organic,Yes,Electronics,3,259.78,Europe,0,No
+C0594,,Female,Germany,58052.87,46.37,11,6,7,Mobile,Ad,No,Home Appliances,7,849.17,Europe,0,No
+C0595,46.0,Male,USA,301990.19,54.8,2,3,5,Tablet,Ad,No,Electronics,2,2147.02,Asia,0,No
+C0596,60.0,Female,UK,197251.77,50.95,17,9,9,Mobile,Email,Yes,Fashion,3,366.17,Europe,0,Yes
+C0597,28.0,Male,UK,96654.62,15.83,16,4,1,Mobile,Ad,No,Electronics,1,421.63,Asia,1,Yes
+C0598,35.0,Female,Canada,259294.45,29.26,15,6,5,Desktop,Organic,No,Home Appliances,8,434.41,Europe,3,Yes
+C0599,64.0,Female,Canada,93813.9,15.97,13,2,13,Mobile,Ad,No,Fashion,2,719.1,Asia,0,No
+C0600,29.0,Female,Canada,141804.59,19.55,15,9,0,Mobile,Organic,No,Fashion,7,351.49,Asia,0,Yes
+C0601,26.0,Female,USA,99219.11,32.7,4,1,0,Mobile,Email,No,Fashion,9,856.41,Asia,2,No
+C0602,27.0,Female,USA,120439.49,8.75,16,6,10,Mobile,Organic,Yes,Fashion,6,1105.56,Europe,0,Yes
+C0603,61.0,Male,Germany,114219.89,17.0,12,4,2,Desktop,Ad,No,Electronics,2,916.54,Europe,0,No
+C0604,34.0,Female,Canada,79818.24,56.45,4,0,2,Desktop,Email,Yes,Electronics,2,230.2,Asia,0,No
+C0605,55.0,Male,UK,170458.86,30.64,3,0,10,Tablet,Email,No,Fashion,9,1208.46,Europe,0,No
+C0606,24.0,Female,India,141206.16,29.5,17,8,12,Mobile,Email,Yes,Home Appliances,10,1167.27,Asia,0,Yes
+C0607,63.0,Female,Germany,165024.18,5.8,18,4,4,Tablet,Email,No,Fashion,8,1094.55,Europe,0,No
+C0608,30.0,Female,USA,115857.19,18.61,18,0,0,Tablet,Organic,No,Electronics,9,831.89,Asia,0,Yes
+C0609,57.0,Male,Germany,62737.53,52.65,17,6,9,Mobile,,Yes,Fashion,4,759.08,Asia,0,Yes
+C0610,59.0,Female,Germany,232046.49,14.05,12,8,5,Desktop,Ad,No,Electronics,4,1235.75,North America,3,Yes
+C0611,26.0,Female,Germany,86571.15,27.83,4,0,6,Desktop,Ad,Yes,Fashion,2,2109.29,Europe,0,Yes
+C0612,44.0,Female,Germany,118424.81,5.79,12,9,9,Mobile,Organic,No,Home Appliances,10,375.47,Europe,0,Yes
+C0613,19.0,Male,India,135630.65,31.31,15,3,11,Mobile,Ad,No,Fashion,1,1270.13,North America,1,Yes
+C0614,22.0,Male,Canada,118031.98,6.16,16,2,12,Desktop,,Yes,Home Appliances,10,631.61,Asia,0,Yes
+C0615,46.0,Male,UK,156015.17,50.08,5,4,10,Mobile,Email,Yes,Home Appliances,4,615.35,Asia,0,No
+C0616,54.0,Male,Germany,168836.99,50.37,15,6,2,Mobile,Email,No,Fashion,10,264.56,North America,3,No
+C0617,55.0,Female,Germany,88219.49,48.33,17,7,3,Mobile,Ad,Yes,Home Appliances,10,560.67,North America,0,No
+C0618,36.0,Male,Germany,222511.41,20.59,18,1,9,Desktop,Ad,No,Home Appliances,8,365.64,Asia,0,Yes
+C0619,25.0,Female,Canada,86383.18,51.05,5,6,10,Tablet,Email,No,Electronics,2,503.55,Europe,2,No
+C0620,62.0,Male,USA,116818.24,34.86,13,0,9,Tablet,,No,Electronics,8,344.15,North America,0,No
+C0621,18.0,Male,USA,81321.11,25.56,19,6,13,Mobile,,No,Home Appliances,1,508.09,North America,0,Yes
+C0622,39.0,Female,India,70492.62,39.39,13,7,11,Desktop,Ad,No,Fashion,1,521.3,North America,2,No
+C0623,34.0,Female,USA,166390.97,5.68,18,1,14,Mobile,Ad,No,Home Appliances,4,704.9,North America,1,No
+C0624,24.0,Male,Germany,470216.47,12.86,14,8,9,Desktop,Ad,Yes,Fashion,7,252.43,North America,3,No
+C0625,42.0,Female,Germany,82381.82,45.83,4,0,13,Mobile,Organic,Yes,Electronics,9,279.41,North America,0,No
+C0626,62.0,Female,Germany,181255.11,18.43,4,5,9,Desktop,Ad,Yes,Fashion,5,826.46,Asia,0,No
+C0627,21.0,Male,India,83871.77,37.89,19,0,9,Desktop,Ad,Yes,Home Appliances,2,412.21,Asia,0,No
+C0628,53.0,Female,Germany,98199.61,26.18,13,2,2,Tablet,Ad,Yes,Home Appliances,7,1267.39,North America,0,Yes
+C0629,23.0,Female,USA,237706.47,52.01,12,5,0,Mobile,Ad,No,Home Appliances,2,761.4,Asia,0,Yes
+C0630,48.0,Female,Canada,57712.69,57.38,7,2,7,Tablet,,No,Home Appliances,9,957.24,Europe,0,No
+C0631,36.0,Male,Canada,50560.22,53.6,12,7,12,Tablet,Email,No,Home Appliances,9,1550.63,Europe,0,Yes
+C0632,61.0,Female,UK,94504.31,19.88,4,4,9,Desktop,Ad,Yes,Fashion,3,552.35,North America,0,Yes
+C0633,56.0,Male,USA,137561.73,15.68,2,1,9,Mobile,Ad,No,Home Appliances,8,471.21,Europe,0,Yes
+C0634,44.0,Male,Germany,124471.65,31.09,2,3,1,Desktop,Ad,No,Electronics,4,1122.17,Europe,0,No
+C0635,27.0,Male,Canada,118224.38,5.4,5,8,0,Desktop,Ad,No,Home Appliances,3,902.99,Asia,2,Yes
+C0636,43.0,Male,USA,100414.91,6.42,10,3,13,Desktop,Ad,No,Fashion,1,594.43,Asia,0,Yes
+C0637,36.0,Female,Canada,146278.85,35.43,10,9,7,Mobile,Email,No,Home Appliances,5,1532.84,Asia,0,No
+C0638,56.0,Female,Germany,22998.03,33.62,9,9,6,Mobile,Ad,No,Home Appliances,4,585.61,Asia,1,No
+C0639,20.0,Female,Canada,67818.98,59.7,13,7,6,Desktop,Ad,No,Fashion,1,678.35,Europe,0,Yes
+C0640,62.0,Male,UK,94201.73,16.1,7,4,3,Mobile,Ad,Yes,Home Appliances,10,673.67,North America,0,No
+C0641,30.0,Male,UK,140402.33,19.2,5,9,10,Desktop,Organic,No,Fashion,8,379.65,Asia,0,No
+C0642,45.0,Male,Canada,207914.57,11.24,10,0,8,Mobile,Email,No,Home Appliances,8,696.84,Europe,1,No
+C0643,37.0,Female,USA,63414.65,55.46,10,6,5,Mobile,Email,Yes,Electronics,8,1537.72,Asia,0,Yes
+C0644,45.0,Male,USA,204544.19,47.78,6,2,1,Tablet,Email,No,Home Appliances,3,868.69,Europe,0,No
+C0645,25.0,Female,USA,78725.25,50.23,19,9,13,Desktop,Email,No,Fashion,6,677.65,Asia,3,No
+C0646,58.0,Female,Canada,92507.51,54.65,8,7,0,Tablet,Ad,No,Electronics,7,603.62,North America,3,Yes
+C0647,56.0,Male,USA,132021.0,33.87,1,2,0,Tablet,,Yes,Fashion,9,811.2,Asia,0,Yes
+C0648,18.0,Female,Germany,89177.31,29.82,17,0,8,Desktop,Ad,No,Home Appliances,5,1043.0,North America,1,Yes
+C0649,20.0,Male,UK,171967.16,23.17,7,4,3,Desktop,Email,No,Electronics,9,958.67,Asia,3,No
+C0650,30.0,Female,Germany,80635.79,37.41,14,1,4,Mobile,Organic,No,Fashion,6,545.05,Asia,0,Yes
+C0651,45.0,Female,USA,81245.65,29.99,17,3,2,Desktop,Email,Yes,Electronics,10,808.25,Asia,0,No
+C0652,42.0,Male,Germany,167040.23,29.84,9,0,3,Tablet,,No,Electronics,10,887.11,Europe,0,Yes
+C0653,50.0,Male,USA,67402.53,56.53,17,8,11,Tablet,Email,No,Fashion,10,363.47,Europe,0,No
+C0654,55.0,Female,Canada,111799.74,59.12,5,5,7,Desktop,Organic,No,Electronics,4,735.79,North America,1,No
+C0655,23.0,Female,Germany,43034.55,48.81,8,7,12,Tablet,Organic,Yes,Fashion,1,181.86,North America,0,Yes
+C0656,61.0,Male,Canada,245197.6,46.62,6,3,3,Mobile,,No,Electronics,1,888.49,Europe,1,No
+C0657,62.0,Female,Canada,180462.08,42.43,11,8,8,Tablet,,No,Electronics,10,988.52,North America,0,Yes
+C0658,49.0,Female,India,390449.38,14.13,19,1,8,Mobile,Organic,Yes,Electronics,5,1041.62,North America,0,Yes
+C0659,62.0,Female,USA,192756.28,8.25,4,8,5,Tablet,Organic,No,Home Appliances,3,524.78,Europe,0,No
+C0660,64.0,Male,UK,56115.92,42.99,18,4,1,Mobile,Ad,No,Home Appliances,5,800.65,Europe,0,Yes
+C0661,38.0,Female,USA,137905.64,45.08,1,5,11,Mobile,Ad,No,Fashion,5,1563.02,Europe,1,No
+C0662,33.0,Female,UK,62379.73,7.58,13,2,9,Desktop,Email,No,Electronics,1,1553.49,Europe,0,Yes
+C0663,38.0,Male,USA,217296.65,56.04,14,3,10,Mobile,,Yes,Fashion,8,653.6,Asia,0,Yes
+C0664,28.0,Male,Canada,56921.58,10.01,1,5,6,Desktop,Organic,No,Home Appliances,5,723.13,Europe,0,No
+C0665,54.0,Female,Germany,55571.32,20.72,11,6,8,Tablet,,No,Home Appliances,5,1295.36,North America,2,No
+C0666,53.0,Male,Germany,44138.79,41.98,17,0,5,Tablet,Organic,No,Home Appliances,9,270.3,Asia,2,Yes
+C0667,52.0,Female,India,77327.9,14.34,4,6,2,Tablet,Ad,No,Home Appliances,8,547.93,Asia,0,No
+C0668,36.0,Male,UK,69930.77,8.05,12,0,13,Mobile,Ad,Yes,Fashion,1,1482.29,North America,0,Yes
+C0669,37.0,Male,UK,52531.88,23.21,10,4,14,Tablet,Ad,No,Electronics,3,1194.07,Asia,0,No
+C0670,35.0,Female,UK,266973.47,47.13,6,5,6,Tablet,Ad,No,Fashion,7,830.11,North America,0,Yes
+C0671,64.0,Male,Canada,128661.52,27.75,1,1,4,Desktop,Email,No,Electronics,1,269.48,Asia,0,Yes
+C0672,58.0,Female,UK,121311.55,40.91,7,9,0,Desktop,,No,Home Appliances,1,645.52,Asia,0,No
+C0673,31.0,Male,Germany,218508.94,36.88,16,8,2,Tablet,Organic,No,Electronics,5,466.87,North America,0,Yes
+C0674,32.0,Female,Canada,112210.17,6.22,14,9,4,Tablet,Email,Yes,Home Appliances,9,811.29,North America,0,Yes
+C0675,48.0,Male,USA,67891.08,59.37,6,5,6,Mobile,Ad,Yes,Fashion,6,409.28,North America,0,Yes
+C0676,18.0,Male,UK,42188.17,7.28,5,6,2,Mobile,Ad,Yes,Electronics,10,359.45,North America,0,No
+C0677,20.0,Female,UK,66004.04,58.23,18,9,5,Tablet,Email,No,Fashion,2,192.69,Europe,0,No
+C0678,33.0,Male,USA,209547.94,35.24,15,7,4,Desktop,Ad,Yes,Home Appliances,9,1384.48,Europe,0,No
+C0679,40.0,Female,UK,52697.96,57.97,6,9,12,Tablet,Ad,Yes,Fashion,6,523.29,North America,0,No
+C0680,28.0,Male,USA,117778.81,11.31,19,0,0,Mobile,Email,No,Home Appliances,5,730.91,Europe,0,No
+C0681,29.0,Female,Canada,165539.08,31.97,1,7,9,Desktop,Ad,Yes,Home Appliances,5,664.25,North America,0,No
+C0682,27.0,Male,Germany,113854.02,14.32,1,3,5,Desktop,,No,Home Appliances,3,350.56,North America,3,Yes
+C0683,49.0,Female,USA,120510.44,7.8,13,9,13,Mobile,Ad,No,Fashion,6,312.49,Asia,0,No
+C0684,,Male,India,137009.01,38.96,3,7,7,Tablet,Ad,Yes,Fashion,4,363.88,North America,1,Yes
+C0685,25.0,Male,USA,119329.09,16.43,10,5,12,Tablet,Ad,No,Electronics,10,431.0,North America,0,Yes
+C0686,55.0,Male,UK,220695.03,37.32,3,8,12,Tablet,Ad,Yes,Electronics,2,828.79,North America,0,No
+C0687,29.0,Male,Canada,58679.99,11.18,9,3,0,Mobile,Email,No,Fashion,3,412.64,North America,0,No
+C0688,41.0,Female,Canada,111325.37,23.26,8,1,1,Desktop,Organic,No,Fashion,9,1896.74,Asia,0,Yes
+C0689,45.0,Male,USA,39770.46,47.99,3,1,13,Mobile,Email,Yes,Fashion,9,1231.87,North America,0,Yes
+C0690,25.0,Female,Germany,35000.82,29.04,13,4,14,Tablet,Email,Yes,Fashion,6,1080.32,Asia,0,No
+C0691,45.0,Male,India,94765.86,39.53,6,9,3,Mobile,Ad,No,Home Appliances,10,619.06,North America,0,No
+C0692,53.0,Male,Canada,129532.85,40.61,13,8,11,Desktop,Email,Yes,Home Appliances,10,1650.06,Asia,1,No
+C0693,43.0,Female,UK,223090.74,51.41,12,2,1,Mobile,Ad,Yes,Home Appliances,9,583.59,Europe,0,Yes
+C0694,25.0,Female,UK,331007.35,22.87,13,7,10,Tablet,Ad,No,Fashion,4,652.78,Asia,0,No
+C0695,45.0,Male,Germany,190981.21,42.8,2,3,8,Desktop,Organic,No,Home Appliances,5,736.56,Asia,0,Yes
+C0696,,Male,Canada,142000.08,57.89,16,5,9,Mobile,Organic,No,Home Appliances,10,1013.43,North America,0,No
+C0697,54.0,Male,USA,106935.64,45.16,6,9,7,Mobile,Organic,No,Electronics,6,974.71,Asia,0,No
+C0698,58.0,Female,UK,45907.6,31.94,19,5,7,Desktop,Ad,No,Electronics,9,500.16,Asia,0,Yes
+C0699,53.0,Female,Germany,91764.58,39.69,13,2,3,Desktop,Ad,Yes,Home Appliances,5,483.09,North America,0,Yes
+C0700,44.0,Male,Canada,188186.43,45.68,17,4,4,Tablet,,No,Home Appliances,8,976.47,Europe,0,No
+C0701,34.0,Female,Canada,154684.2,38.68,9,2,3,Desktop,Ad,No,Home Appliances,1,1021.62,Europe,0,No
+C0702,26.0,Female,Canada,51887.49,5.92,17,0,12,Tablet,Ad,No,Fashion,5,525.31,Europe,0,Yes
+C0703,50.0,Female,Canada,134190.11,15.71,2,6,8,Mobile,Ad,No,Electronics,10,256.64,Asia,3,No
+C0704,37.0,Female,Canada,128565.84,49.58,19,3,12,Tablet,Ad,Yes,Electronics,1,587.34,North America,2,Yes
+C0705,30.0,Male,UK,117588.33,20.0,19,6,1,Mobile,Ad,Yes,Electronics,10,966.92,Europe,2,No
+C0706,45.0,Male,Germany,97350.41,45.24,7,2,12,Desktop,Email,No,Home Appliances,6,1965.01,Europe,0,Yes
+C0707,46.0,Male,Canada,137694.4,25.47,10,4,10,Mobile,Email,No,Fashion,7,324.16,Europe,0,No
+C0708,30.0,Male,India,139896.27,33.7,10,4,7,Desktop,,No,Electronics,5,514.94,Europe,0,Yes
+C0709,63.0,Female,India,71630.1,8.74,9,1,1,Mobile,Ad,Yes,Electronics,1,526.56,North America,0,No
+C0710,52.0,Female,Germany,123934.32,14.97,17,9,0,Mobile,Ad,No,Fashion,6,1500.39,Europe,0,No
+C0711,23.0,Male,USA,89796.6,57.65,15,1,9,Mobile,Email,No,Home Appliances,10,651.34,Asia,1,Yes
+C0712,35.0,Male,USA,46928.62,53.96,2,3,2,Mobile,Email,No,Home Appliances,5,385.91,Asia,0,No
+C0713,22.0,Male,USA,74547.85,40.88,4,3,8,Tablet,Email,No,Electronics,6,930.03,North America,0,Yes
+C0714,64.0,Female,India,45168.5,30.28,19,3,11,Mobile,Organic,No,Electronics,10,521.76,Europe,0,No
+C0715,42.0,Male,USA,161142.89,42.17,17,5,2,Tablet,Ad,Yes,Fashion,7,319.06,Europe,0,Yes
+C0716,19.0,Female,UK,117941.58,39.02,5,1,8,Desktop,Organic,No,Electronics,7,389.29,Asia,0,No
+C0717,27.0,Male,Canada,82640.46,36.27,7,5,6,Desktop,Email,No,Fashion,2,1882.63,North America,0,No
+C0718,47.0,Male,India,200839.36,8.25,18,6,12,Tablet,Ad,Yes,Electronics,3,837.59,Asia,0,Yes
+C0719,62.0,Female,Germany,102129.35,39.8,7,9,9,Desktop,Organic,Yes,Electronics,6,709.57,North America,0,Yes
+C0720,22.0,Female,Germany,48261.46,47.29,17,2,0,Desktop,Email,No,Electronics,3,572.53,North America,0,No
+C0721,50.0,Male,Canada,79241.92,59.67,7,7,9,Mobile,Ad,No,Home Appliances,2,792.58,North America,0,No
+C0722,18.0,Female,India,223334.76,5.61,4,1,4,Mobile,Ad,No,Fashion,4,786.93,Asia,1,No
+C0723,35.0,Female,USA,70633.67,45.16,8,7,8,Mobile,Ad,Yes,Fashion,5,792.59,North America,0,Yes
+C0724,49.0,Female,USA,113279.18,36.45,13,4,11,Tablet,Email,No,Home Appliances,10,712.59,Asia,0,Yes
+C0725,64.0,Male,UK,143191.52,28.87,4,1,14,Tablet,Ad,No,Home Appliances,9,1120.22,Asia,3,No
+C0726,28.0,Female,UK,132584.34,12.02,6,6,14,Desktop,Ad,No,Home Appliances,3,674.43,Europe,0,No
+C0727,38.0,Male,USA,335954.13,27.5,5,1,2,Mobile,Ad,No,Fashion,3,369.9,Asia,0,No
+C0728,43.0,Female,Germany,54822.08,24.49,12,5,8,Tablet,Organic,No,Electronics,6,460.61,Asia,0,Yes
+C0729,42.0,Male,Germany,57628.27,21.66,4,9,4,Tablet,Organic,No,Home Appliances,5,202.87,Europe,1,Yes
+C0730,39.0,Male,UK,55277.59,45.2,9,2,8,Mobile,Organic,No,Home Appliances,6,2244.17,Europe,0,Yes
+C0731,44.0,Male,Canada,85139.03,43.54,4,8,9,Tablet,Ad,No,Home Appliances,7,1116.16,Europe,0,No
+C0732,30.0,Female,USA,171046.15,37.4,19,2,5,Mobile,,No,Electronics,3,404.22,North America,0,Yes
+C0733,50.0,Male,UK,58931.6,56.63,14,2,8,Desktop,Email,No,Electronics,5,561.66,North America,0,No
+C0734,51.0,Female,UK,172246.22,24.24,5,4,6,Desktop,Organic,No,Home Appliances,8,453.9,Europe,1,No
+C0735,58.0,Female,USA,100464.86,18.41,18,6,6,Desktop,Email,No,Electronics,4,1678.29,North America,0,Yes
+C0736,52.0,Male,USA,56698.42,41.07,10,7,7,Mobile,Email,No,Home Appliances,10,283.74,Europe,0,Yes
+C0737,18.0,Female,Germany,41122.68,15.93,19,6,6,Tablet,Organic,No,Electronics,2,712.43,North America,0,No
+C0738,38.0,Male,Canada,45991.63,22.33,12,8,11,Desktop,Ad,No,Fashion,4,623.21,Asia,0,Yes
+C0739,23.0,Female,Canada,70761.71,17.35,18,4,8,Desktop,Email,No,Fashion,2,1092.37,North America,1,Yes
+C0740,45.0,Male,USA,90710.14,8.8,17,9,10,Desktop,Organic,No,Electronics,3,624.9,North America,3,Yes
+C0741,34.0,Female,India,193499.75,50.51,11,2,8,Tablet,Organic,No,Fashion,4,231.61,Asia,0,No
+C0742,22.0,Female,UK,147199.5,19.0,3,5,5,Tablet,,Yes,Fashion,4,572.11,Europe,2,No
+C0743,48.0,Female,UK,64895.23,31.02,17,4,6,Mobile,Email,No,Fashion,10,371.19,North America,0,No
+C0744,22.0,Female,USA,121095.24,7.38,1,3,1,Desktop,Ad,Yes,Home Appliances,9,697.67,North America,1,No
+C0745,55.0,Male,India,225431.84,43.46,15,1,14,Tablet,Ad,Yes,Electronics,10,1572.63,Asia,0,No
+C0746,20.0,Female,Germany,251943.14,23.18,9,6,8,Mobile,Email,No,Electronics,6,234.24,Asia,0,No
+C0747,40.0,Female,USA,84355.64,45.96,15,4,11,Desktop,Email,Yes,Electronics,9,411.52,Asia,0,No
+C0748,54.0,Female,USA,159395.56,27.68,3,3,12,Tablet,Ad,No,Fashion,4,477.41,Asia,0,No
+C0749,54.0,Male,UK,197793.27,15.77,19,7,0,Tablet,Ad,Yes,Home Appliances,9,529.02,Europe,0,Yes
+C0750,27.0,Female,USA,46465.44,33.22,13,8,0,Mobile,Email,Yes,Electronics,9,1036.99,North America,2,No
+C0751,27.0,Female,USA,76404.47,12.18,30,8,2,Desktop,Organic,No,Fashion,6,5052.39,North America,1,No
+C0752,36.0,Female,USA,299541.83,29.23,1,2,11,Desktop,,No,Home Appliances,5,853.62,North America,0,Yes
+C0753,34.0,Male,UK,84921.45,22.45,17,2,5,Tablet,Organic,No,Home Appliances,3,456.93,North America,0,No
+C0754,38.0,Female,Germany,22823.01,55.16,13,4,4,Desktop,Organic,No,Electronics,5,763.53,Europe,1,Yes
+C0755,31.0,Male,Germany,92922.31,8.35,1,4,14,Mobile,Email,Yes,Electronics,3,1060.69,North America,0,Yes
+C0756,26.0,Female,USA,173219.14,43.17,10,9,1,Tablet,,No,Fashion,5,428.64,Europe,0,No
+C0757,63.0,Male,UK,99037.64,15.05,15,1,8,Tablet,Email,No,Electronics,5,1062.96,Europe,0,Yes
+C0758,18.0,Female,Germany,141164.62,22.55,7,0,13,Mobile,Organic,No,Fashion,2,686.37,Asia,0,No
+C0759,62.0,Female,Germany,157804.31,27.85,18,7,12,Tablet,,No,Home Appliances,9,1245.48,Asia,0,Yes
+C0760,30.0,Male,Germany,82663.32,54.94,16,2,9,Desktop,,No,Home Appliances,7,589.43,North America,0,Yes
+C0761,21.0,Female,UK,76138.06,18.34,14,0,13,Desktop,Ad,No,Home Appliances,6,836.1,Europe,0,No
+C0762,18.0,Male,UK,106587.39,10.02,18,0,3,Tablet,Ad,No,Home Appliances,5,649.13,Asia,0,No
+C0763,57.0,Female,USA,107892.37,22.53,7,1,3,Mobile,Ad,No,Electronics,4,627.83,Europe,2,Yes
+C0764,49.0,Female,Canada,101421.3,10.76,17,5,4,Mobile,Ad,No,Electronics,8,776.94,Asia,0,No
+C0765,51.0,Female,Germany,103526.02,12.07,18,5,14,Desktop,Ad,Yes,Fashion,2,917.9,Europe,0,No
+C0766,45.0,Female,Canada,67895.63,36.56,12,2,7,Mobile,Ad,No,Fashion,8,314.27,North America,0,Yes
+C0767,48.0,Female,UK,143651.21,8.35,8,3,9,Tablet,Ad,No,Fashion,1,1572.12,North America,0,Yes
+C0768,25.0,Male,UK,133201.19,6.7,2,1,3,Tablet,Email,No,Fashion,10,217.94,Europe,0,No
+C0769,56.0,Male,UK,50614.62,44.29,7,1,4,Desktop,Organic,No,Fashion,1,441.03,Asia,0,No
+C0770,43.0,Female,Canada,81260.79,24.89,4,6,11,Desktop,Ad,Yes,Home Appliances,3,628.56,Asia,0,Yes
+C0771,51.0,Female,UK,103418.58,11.9,18,0,3,Desktop,Email,No,Home Appliances,5,851.85,North America,0,Yes
+C0772,20.0,Female,USA,75572.18,18.95,6,6,13,Mobile,Organic,No,Home Appliances,6,1712.49,North America,0,No
+C0773,29.0,Female,UK,135765.71,40.31,9,0,5,Tablet,Email,Yes,Fashion,4,218.12,North America,0,Yes
+C0774,18.0,Male,India,95469.18,20.15,9,5,11,Tablet,,No,Home Appliances,7,490.48,Asia,0,No
+C0775,61.0,Female,Canada,107423.72,32.2,14,2,2,Tablet,Ad,No,Home Appliances,7,185.66,Asia,0,No
+C0776,22.0,Male,India,80792.98,11.69,8,7,7,Desktop,Ad,No,Home Appliances,2,677.88,North America,2,Yes
+C0777,,Female,UK,36438.84,37.35,19,5,5,Tablet,Email,No,Home Appliances,2,782.9,Europe,0,No
+C0778,47.0,Male,USA,35412.7,22.38,3,1,9,Mobile,Ad,No,Electronics,2,1727.58,Asia,0,No
+C0779,,Male,Germany,132561.87,39.48,18,7,4,Mobile,Email,Yes,Fashion,2,715.07,North America,0,No
+C0780,64.0,Male,UK,112809.52,49.46,5,4,12,Tablet,Ad,No,Fashion,9,1244.41,Europe,1,No
+C0781,40.0,Male,USA,122925.17,38.64,14,7,14,Desktop,Ad,No,Electronics,5,944.17,Asia,0,No
+C0782,32.0,Female,Canada,105581.29,21.27,4,7,1,Tablet,Ad,Yes,Home Appliances,8,512.27,Europe,0,No
+C0783,54.0,Male,India,109895.34,19.07,7,5,9,Mobile,Ad,No,Home Appliances,5,285.61,Europe,0,No
+C0784,38.0,Male,India,160253.42,23.01,12,1,9,Mobile,Email,No,Home Appliances,5,784.46,Asia,0,No
+C0785,31.0,Male,India,123291.86,14.05,2,7,6,Mobile,Email,No,Fashion,1,271.71,North America,0,No
+C0786,19.0,Male,Canada,166118.17,14.96,11,5,1,Tablet,Ad,No,Fashion,6,1446.82,Europe,0,Yes
+C0787,28.0,Male,USA,107552.13,48.49,14,5,0,Mobile,Ad,No,Fashion,4,603.51,North America,0,Yes
+C0788,56.0,Male,Canada,84949.24,26.16,16,7,6,Desktop,Ad,No,Fashion,3,1362.54,Asia,3,Yes
+C0789,55.0,Female,India,108782.03,28.98,6,0,4,Tablet,Ad,No,Fashion,6,498.63,Europe,0,No
+C0790,51.0,Female,UK,64984.95,37.67,4,1,0,Tablet,Organic,Yes,Electronics,2,781.57,Europe,0,No
+C0791,55.0,Female,Germany,81640.16,37.43,15,8,14,Mobile,Ad,No,Fashion,8,754.16,Europe,0,No
+C0792,51.0,Male,Canada,107881.17,8.71,1,7,3,Mobile,Organic,No,Home Appliances,1,647.41,Europe,1,Yes
+C0793,35.0,Male,Canada,107168.66,50.73,7,6,11,Desktop,Organic,No,Fashion,9,513.07,Europe,0,No
+C0794,47.0,Female,USA,93600.46,14.75,12,6,12,Tablet,Ad,No,Electronics,8,841.74,Asia,2,Yes
+C0795,32.0,Female,USA,49311.26,44.77,10,4,3,Mobile,Email,No,Home Appliances,1,381.57,Europe,0,No
+C0796,44.0,Male,Canada,135700.4,47.5,5,1,9,Desktop,,No,Electronics,10,321.93,Asia,0,Yes
+C0797,51.0,Male,India,149808.67,44.32,12,5,6,Mobile,Organic,Yes,Home Appliances,9,1402.06,North America,0,No
+C0798,,Male,Germany,224548.11,36.84,18,9,8,Tablet,Email,No,Fashion,2,1028.96,Asia,1,No
+C0799,50.0,Male,USA,123116.7,5.8,10,2,1,Mobile,Organic,Yes,Electronics,3,691.96,Europe,0,No
+C0800,41.0,Male,India,98787.95,24.82,6,3,11,Tablet,Organic,No,Home Appliances,2,1806.39,North America,0,No
+C0801,,Female,UK,59485.34,38.27,12,9,13,Mobile,Ad,No,Fashion,8,566.42,Asia,0,No
+C0802,47.0,Female,USA,208148.89,26.31,7,1,0,Tablet,Organic,No,Home Appliances,2,1470.89,Asia,0,Yes
+C0803,59.0,Female,India,111738.49,52.49,18,1,1,Desktop,Email,Yes,Electronics,10,739.03,Asia,0,No
+C0804,34.0,Female,India,108736.91,21.98,2,7,6,Tablet,Email,No,Electronics,2,359.66,Europe,1,No
+C0805,22.0,Female,Germany,86939.86,21.14,10,7,12,Desktop,,Yes,Electronics,1,2015.91,Europe,0,No
+C0806,46.0,Female,Germany,84205.47,19.63,15,9,9,Tablet,Organic,Yes,Electronics,7,1205.23,Asia,0,No
+C0807,21.0,Female,UK,139264.93,23.3,12,5,5,Desktop,Ad,No,Fashion,2,618.56,Asia,0,No
+C0808,27.0,Male,India,59235.7,35.66,17,4,3,Mobile,Ad,No,Home Appliances,10,1028.96,North America,0,No
+C0809,34.0,Male,India,222507.46,43.89,4,7,0,Tablet,Email,Yes,Fashion,5,522.06,Europe,0,No
+C0810,27.0,Male,Germany,199538.65,41.44,7,3,12,Mobile,Organic,Yes,Electronics,5,1093.88,Europe,0,No
+C0811,34.0,Female,USA,82699.53,49.42,9,3,0,Desktop,Email,No,Home Appliances,3,158.44,North America,0,No
+C0812,37.0,Female,USA,64091.54,53.73,19,4,4,Tablet,,No,Electronics,3,360.73,Asia,2,No
+C0813,41.0,Male,Canada,36040.44,49.88,7,0,14,Tablet,Organic,Yes,Fashion,3,1196.98,Asia,0,No
+C0814,22.0,Female,Germany,52801.4,6.04,2,0,0,Mobile,Email,No,Fashion,6,572.61,North America,0,No
+C0815,51.0,Male,Canada,142195.16,45.48,6,1,11,Tablet,Ad,No,Fashion,4,753.35,Asia,0,Yes
+C0816,,Female,Germany,115574.54,16.46,18,7,14,Tablet,Email,No,Home Appliances,3,296.46,Asia,0,Yes
+C0817,,Male,UK,126351.98,12.31,6,6,6,Mobile,Email,No,Home Appliances,2,2015.7,North America,0,Yes
+C0818,,Male,India,39230.52,40.12,13,9,12,Tablet,Email,Yes,Electronics,3,1358.75,North America,1,No
+C0819,60.0,Male,UK,80990.91,22.59,19,8,10,Mobile,Email,No,Home Appliances,4,589.69,North America,0,No
+C0820,60.0,Male,Germany,195562.72,8.14,2,4,0,Mobile,Email,No,Home Appliances,6,521.75,Asia,2,No
+C0821,28.0,Male,India,94088.05,12.57,12,1,0,Mobile,Ad,No,Fashion,4,1233.69,North America,0,No
+C0822,64.0,Male,USA,52253.0,5.05,15,6,1,Mobile,Ad,No,Electronics,8,2185.24,Asia,0,Yes
+C0823,40.0,Female,USA,93358.19,54.68,14,7,12,Mobile,Email,No,Fashion,3,1178.8,Europe,1,No
+C0824,33.0,Female,Canada,67137.05,6.35,6,6,13,Desktop,Ad,Yes,Electronics,3,2448.13,Europe,2,No
+C0825,48.0,Male,Germany,116639.06,16.52,18,6,10,Desktop,Ad,Yes,Electronics,3,382.45,North America,3,No
+C0826,28.0,Female,Germany,99735.07,27.89,5,4,11,Mobile,Ad,Yes,Home Appliances,8,406.82,Asia,0,Yes
+C0827,33.0,Female,USA,129527.48,24.61,18,1,9,Desktop,Email,No,Fashion,4,325.91,Asia,0,No
+C0828,25.0,Male,UK,53693.01,55.14,3,5,2,Desktop,Ad,No,Home Appliances,1,867.02,Asia,0,Yes
+C0829,21.0,Male,India,78876.74,7.22,3,3,12,Tablet,Organic,No,Home Appliances,2,739.05,North America,0,No
+C0830,57.0,Male,UK,170283.02,33.17,10,9,10,Mobile,Email,Yes,Home Appliances,10,607.18,Asia,0,Yes
+C0831,21.0,Male,UK,50154.32,42.43,19,1,14,Desktop,Email,No,Electronics,2,1080.91,Asia,3,No
+C0832,42.0,Female,USA,59781.05,56.24,3,8,0,Tablet,Organic,No,Fashion,3,1393.25,Asia,0,Yes
+C0833,20.0,Male,USA,109059.48,39.12,12,6,14,Tablet,Ad,No,Fashion,6,266.29,Europe,1,Yes
+C0834,49.0,Female,USA,113932.9,49.21,16,5,8,Mobile,Email,No,Home Appliances,8,464.9,Asia,0,No
+C0835,20.0,Female,Canada,77309.73,9.6,17,4,9,Mobile,,Yes,Electronics,1,1087.99,Europe,0,No
+C0836,,Male,UK,85886.64,26.23,7,2,7,Tablet,Organic,No,Fashion,9,502.38,Asia,0,No
+C0837,46.0,Female,Germany,128876.88,25.57,13,9,4,Mobile,,No,Fashion,1,412.02,Asia,0,Yes
+C0838,49.0,Male,India,150967.14,53.75,2,9,12,Mobile,Organic,Yes,Home Appliances,10,1225.52,Asia,1,Yes
+C0839,36.0,Female,Canada,57837.3,13.33,4,3,10,Tablet,Ad,No,Electronics,2,306.83,Europe,0,No
+C0840,38.0,Male,Germany,118439.76,13.35,10,2,1,Tablet,Ad,Yes,Home Appliances,3,555.05,Asia,0,Yes
+C0841,22.0,Female,UK,210240.63,23.07,7,7,4,Mobile,Email,No,Fashion,7,810.12,North America,0,Yes
+C0842,35.0,Female,USA,93158.16,8.0,17,2,5,Desktop,Ad,No,Electronics,9,471.4,Asia,0,No
+C0843,45.0,Male,UK,57531.07,15.04,6,6,13,Mobile,Ad,Yes,Home Appliances,3,1064.11,Europe,2,Yes
+C0844,59.0,Female,India,56215.85,58.09,19,6,14,Desktop,Organic,No,Fashion,8,472.8,Europe,0,Yes
+C0845,,Female,Canada,91092.55,28.55,5,6,0,Tablet,Ad,No,Home Appliances,9,1548.7,North America,0,Yes
+C0846,,Female,Canada,165698.25,39.76,10,6,10,Desktop,Ad,Yes,Home Appliances,10,616.8,North America,1,No
+C0847,23.0,Female,India,96724.51,44.94,9,1,3,Tablet,Organic,No,Home Appliances,7,995.02,North America,0,Yes
+C0848,18.0,Female,Germany,108511.99,25.18,13,9,8,Mobile,Organic,Yes,Electronics,4,1040.66,Europe,1,No
+C0849,22.0,Male,Germany,59983.76,13.1,19,2,1,Mobile,Ad,No,Fashion,4,456.45,Asia,0,Yes
+C0850,58.0,Male,Canada,161386.73,16.36,6,9,4,Tablet,Organic,Yes,Fashion,4,194.01,Asia,0,No
+C0851,29.0,Female,Canada,55668.55,22.23,4,8,0,Tablet,Organic,Yes,Fashion,6,825.88,North America,3,Yes
+C0852,43.0,Male,USA,76707.27,39.98,3,2,3,Tablet,Email,Yes,Fashion,4,694.63,North America,1,No
+C0853,63.0,Female,Germany,135260.45,26.91,3,1,3,Mobile,Ad,Yes,Electronics,5,928.43,Asia,0,No
+C0854,51.0,Female,India,35606.53,5.37,4,8,5,Mobile,Ad,No,Home Appliances,9,580.61,North America,0,No
+C0855,31.0,Male,Germany,107686.61,33.79,5,9,9,Desktop,Email,Yes,Fashion,7,513.75,Asia,2,No
+C0856,43.0,Male,USA,58715.75,55.68,8,8,8,Tablet,Ad,No,Electronics,8,2219.6,Asia,0,No
+C0857,62.0,Female,Canada,99536.0,49.66,16,3,2,Desktop,,Yes,Home Appliances,5,274.95,Asia,0,Yes
+C0858,44.0,Male,Canada,82782.52,50.39,3,8,8,Mobile,Organic,Yes,Electronics,5,1033.15,Asia,0,No
+C0859,26.0,Female,USA,282919.42,48.73,12,2,5,Desktop,Organic,No,Electronics,7,471.18,Europe,0,No
+C0860,43.0,Male,India,81100.09,22.81,8,6,6,Desktop,,No,Fashion,8,543.77,Asia,0,No
+C0861,64.0,Female,Canada,248035.13,47.09,13,6,11,Mobile,Organic,No,Fashion,9,549.9,North America,1,Yes
+C0862,39.0,Male,UK,132385.86,12.87,4,7,9,Mobile,Ad,No,Home Appliances,2,410.73,North America,0,No
+C0863,64.0,Female,Canada,66122.91,41.17,14,9,1,Tablet,Ad,Yes,Home Appliances,3,937.05,North America,1,No
+C0864,,Male,UK,116471.92,40.29,14,3,10,Desktop,Organic,No,Fashion,2,1532.09,North America,0,No
+C0865,60.0,Female,USA,84778.32,6.41,13,2,9,Mobile,Ad,Yes,Electronics,10,881.84,Europe,0,Yes
+C0866,34.0,Male,USA,111421.85,48.34,6,2,13,Mobile,Email,Yes,Fashion,7,707.71,Asia,0,No
+C0867,43.0,Female,Canada,69082.35,54.68,17,4,5,Desktop,Email,No,Home Appliances,2,368.02,Asia,0,No
+C0868,53.0,Female,Germany,229828.54,19.71,4,0,5,Mobile,,No,Electronics,2,906.96,North America,0,No
+C0869,18.0,Male,UK,156795.71,49.68,8,9,1,Tablet,Email,No,Electronics,2,2425.54,North America,0,No
+C0870,25.0,Male,India,100296.97,9.53,17,2,1,Tablet,Organic,Yes,Electronics,4,529.31,North America,0,No
+C0871,52.0,Male,Canada,234346.81,38.0,3,5,13,Desktop,Ad,No,Fashion,1,530.81,Asia,0,No
+C0872,32.0,Female,India,102450.97,31.71,17,2,1,Tablet,Email,No,Fashion,2,475.02,Europe,0,No
+C0873,64.0,Female,Canada,170896.35,35.03,9,4,9,Mobile,Ad,No,Home Appliances,3,495.89,Europe,3,No
+C0874,39.0,Female,Germany,100624.42,55.94,2,8,11,Mobile,Organic,Yes,Electronics,7,128.1,Europe,3,No
+C0875,31.0,Male,Germany,120203.79,52.92,13,1,0,Mobile,Ad,Yes,Electronics,10,848.12,Europe,0,Yes
+C0876,43.0,Male,Germany,94776.86,48.18,2,1,4,Mobile,Organic,No,Fashion,1,400.48,North America,0,Yes
+C0877,45.0,Female,Germany,103533.52,20.05,11,5,7,Desktop,Ad,No,Home Appliances,6,253.11,Asia,0,No
+C0878,40.0,Male,USA,107502.13,55.15,15,5,1,Tablet,Ad,No,Home Appliances,3,1045.15,North America,1,No
+C0879,31.0,Female,USA,70624.62,10.36,11,7,12,Tablet,Email,No,Electronics,3,347.51,Europe,0,Yes
+C0880,41.0,Male,UK,80778.46,51.93,3,1,14,Mobile,Email,Yes,Fashion,4,542.83,North America,0,Yes
+C0881,19.0,Female,India,88576.56,23.05,3,8,4,Desktop,Ad,No,Electronics,4,1603.37,Europe,1,No
+C0882,62.0,Male,Canada,110730.6,7.96,12,1,11,Mobile,Ad,No,Fashion,7,285.57,Asia,2,Yes
+C0883,43.0,Male,Canada,97217.94,41.81,5,0,7,Mobile,Organic,Yes,Home Appliances,3,265.19,Europe,0,No
+C0884,31.0,Female,USA,177462.8,17.72,7,9,9,Desktop,Email,Yes,Electronics,8,781.79,North America,0,No
+C0885,24.0,Female,Canada,150777.29,18.4,7,1,13,Desktop,Ad,No,Electronics,8,1325.7,Asia,0,Yes
+C0886,,Female,USA,89485.89,21.83,13,6,4,Mobile,Organic,No,Electronics,7,258.63,Europe,0,No
+C0887,64.0,Male,UK,196986.79,8.5,9,7,1,Tablet,Ad,No,Home Appliances,2,849.47,Europe,0,No
+C0888,40.0,Male,India,251830.2,14.74,13,4,2,Mobile,Email,Yes,Electronics,5,942.56,Asia,0,No
+C0889,63.0,Female,UK,35528.37,5.28,12,5,14,Tablet,Ad,No,Home Appliances,6,193.35,North America,0,Yes
+C0890,60.0,Female,Germany,157336.96,29.5,13,0,5,Tablet,Email,Yes,Fashion,10,1073.95,Asia,0,No
+C0891,64.0,Male,Germany,69808.28,9.63,10,5,10,Desktop,Ad,No,Home Appliances,4,1125.48,North America,0,No
+C0892,62.0,Male,Germany,147321.71,42.55,1,7,10,Desktop,,No,Fashion,10,551.66,Europe,1,Yes
+C0893,,Male,UK,183343.91,17.96,8,2,4,Mobile,Ad,Yes,Home Appliances,5,1410.09,Europe,0,Yes
+C0894,55.0,Female,Canada,63672.22,56.9,16,0,10,Tablet,Ad,Yes,Home Appliances,9,1315.37,Asia,2,Yes
+C0895,52.0,Male,India,39098.39,52.92,13,3,3,Tablet,Ad,No,Electronics,7,707.59,Europe,1,Yes
+C0896,32.0,Male,Germany,149899.0,20.92,3,0,3,Mobile,Organic,No,Home Appliances,2,507.32,Asia,0,Yes
+C0897,42.0,Male,Germany,105630.37,48.08,3,7,4,Mobile,Email,Yes,Electronics,1,371.04,Europe,0,Yes
+C0898,54.0,Male,Germany,42863.7,49.18,5,4,1,Mobile,Organic,No,Fashion,2,650.32,Europe,0,No
+C0899,45.0,Male,India,349682.98,59.26,11,0,8,Desktop,,No,Fashion,3,936.22,North America,0,No
+C0900,27.0,Female,Germany,134889.3,37.88,7,7,1,Mobile,,Yes,Electronics,2,547.57,Asia,2,Yes
+C0901,56.0,Male,India,138005.67,9.51,10,8,9,Mobile,Organic,No,Fashion,3,177.95,Asia,0,No
+C0902,34.0,Female,Germany,195420.49,40.58,10,9,1,Tablet,Ad,No,Home Appliances,10,1424.0,Europe,0,Yes
+C0903,56.0,Male,UK,73834.99,39.37,2,1,9,Mobile,Organic,No,Electronics,9,745.56,North America,0,No
+C0904,39.0,Female,UK,105369.35,40.11,3,8,13,Tablet,Ad,No,Electronics,4,529.65,North America,0,Yes
+C0905,43.0,Female,India,51038.68,21.89,8,7,8,Tablet,Organic,Yes,Electronics,9,1112.42,Asia,0,Yes
+C0906,61.0,Female,UK,72840.38,52.28,11,6,13,Desktop,Email,No,Fashion,3,1660.35,Asia,0,No
+C0907,42.0,Female,India,119710.31,57.77,13,2,2,Mobile,Organic,No,Fashion,1,123.82,Europe,0,Yes
+C0908,34.0,Male,UK,42931.35,16.97,7,1,14,Mobile,Email,No,Home Appliances,5,863.12,Asia,0,No
+C0909,30.0,Male,UK,71815.47,9.85,13,6,9,Tablet,Email,No,Home Appliances,10,282.59,Europe,2,No
+C0910,37.0,Female,India,62070.93,15.7,2,4,6,Desktop,,Yes,Electronics,10,897.37,North America,0,Yes
+C0911,,Female,Canada,105984.29,50.13,6,5,3,Desktop,Ad,No,Home Appliances,2,718.21,Asia,0,No
+C0912,21.0,Female,UK,131577.41,42.22,9,3,12,Mobile,Ad,No,Fashion,4,974.02,North America,0,No
+C0913,27.0,Female,Germany,143068.15,39.98,2,1,12,Tablet,Email,Yes,Home Appliances,2,492.97,North America,0,Yes
+C0914,,Female,Canada,162658.52,27.1,18,8,5,Mobile,,No,Fashion,2,216.17,Europe,0,Yes
+C0915,58.0,Male,India,196036.95,36.78,16,2,13,Mobile,Ad,No,Home Appliances,3,507.64,North America,0,Yes
+C0916,62.0,Male,Canada,133735.97,21.93,12,6,3,Mobile,Ad,No,Fashion,5,849.04,Europe,0,No
+C0917,35.0,Female,USA,253639.17,31.25,7,7,9,Mobile,Ad,Yes,Fashion,4,1223.21,Europe,0,No
+C0918,64.0,Female,USA,104793.94,48.62,7,1,14,Tablet,Ad,Yes,Home Appliances,2,329.28,North America,0,Yes
+C0919,53.0,Male,UK,90521.21,58.97,17,5,6,Desktop,,No,Home Appliances,10,1231.81,North America,0,No
+C0920,64.0,Female,UK,133740.11,56.29,13,7,0,Mobile,Organic,No,Fashion,2,450.91,Europe,0,Yes
+C0921,39.0,Male,Germany,88591.79,56.36,11,6,2,Mobile,Email,No,Electronics,6,826.72,Europe,0,Yes
+C0922,51.0,Female,Canada,249267.62,27.12,6,2,12,Mobile,Email,No,Home Appliances,7,489.83,North America,0,Yes
+C0923,64.0,Male,USA,173770.67,30.78,14,0,2,Mobile,Organic,Yes,Fashion,10,741.97,Europe,0,No
+C0924,25.0,Male,UK,143650.58,43.81,6,5,0,Desktop,Ad,No,Home Appliances,6,1135.84,Europe,0,Yes
+C0925,57.0,Female,Canada,105420.21,55.72,6,7,5,Desktop,Ad,No,Home Appliances,7,318.55,Asia,0,No
+C0926,61.0,Male,UK,80520.04,12.81,2,5,14,Desktop,Email,No,Home Appliances,1,442.33,Asia,1,No
+C0927,36.0,Female,UK,140177.18,21.73,15,4,12,Desktop,Ad,Yes,Home Appliances,6,743.21,Asia,0,Yes
+C0928,59.0,Female,USA,56187.59,12.66,17,7,10,Mobile,Email,Yes,Home Appliances,3,2810.03,Asia,0,Yes
+C0929,58.0,Female,USA,212602.98,38.66,8,1,13,Tablet,Ad,No,Electronics,1,396.27,Asia,0,Yes
+C0930,54.0,Male,UK,90326.09,21.85,5,0,8,Desktop,Ad,Yes,Electronics,8,2262.17,Europe,0,No
+C0931,,Male,India,114984.59,22.94,17,0,7,Desktop,Ad,Yes,Electronics,4,2214.22,Europe,0,No
+C0932,43.0,Male,UK,62642.51,8.9,1,3,10,Mobile,Organic,Yes,Fashion,10,627.42,Asia,0,Yes
+C0933,51.0,Female,UK,141703.64,24.24,18,5,6,Mobile,Ad,No,Electronics,8,556.19,North America,0,Yes
+C0934,62.0,Female,Germany,78678.81,52.44,15,8,9,Mobile,,No,Electronics,10,439.11,Asia,0,Yes
+C0935,23.0,Female,Germany,136572.98,17.82,5,0,7,Mobile,Ad,No,Fashion,4,638.47,North America,0,Yes
+C0936,54.0,Female,Germany,144162.55,43.24,7,0,5,Tablet,Organic,Yes,Electronics,4,285.99,Europe,0,No
+C0937,50.0,Female,India,71409.34,39.63,18,4,8,Tablet,Organic,No,Home Appliances,10,635.4,North America,0,Yes
+C0938,39.0,Female,India,56287.93,52.49,6,9,2,Desktop,,Yes,Electronics,4,1632.93,Europe,0,Yes
+C0939,38.0,Male,UK,212341.26,12.28,5,4,14,Tablet,Organic,No,Electronics,6,460.98,North America,0,No
+C0940,23.0,Female,Germany,89666.32,58.77,19,4,9,Desktop,Ad,No,Electronics,9,575.69,Europe,0,Yes
+C0941,23.0,Male,India,110461.73,37.04,10,9,9,Desktop,Ad,No,Home Appliances,5,239.68,Europe,0,No
+C0942,21.0,Female,USA,125835.69,59.75,15,5,8,Tablet,Email,Yes,Home Appliances,10,832.5,Asia,0,Yes
+C0943,47.0,Female,UK,52741.08,55.13,10,7,3,Desktop,Ad,Yes,Home Appliances,8,779.53,Europe,0,No
+C0944,28.0,Female,Canada,124409.41,17.18,16,2,6,Mobile,Ad,No,Home Appliances,8,691.06,Asia,0,Yes
+C0945,47.0,Male,UK,103731.72,8.09,12,8,14,Desktop,Organic,No,Fashion,4,584.0,Asia,0,No
+C0946,,Male,Canada,71555.93,19.06,18,0,12,Mobile,Email,Yes,Home Appliances,10,557.99,Asia,0,Yes
+C0947,41.0,Male,Germany,55366.61,34.02,1,3,8,Tablet,Email,No,Home Appliances,9,898.87,North America,0,No
+C0948,26.0,Male,Canada,133645.06,14.44,16,8,1,Tablet,,No,Home Appliances,9,653.74,North America,0,Yes
+C0949,,Male,Germany,173486.66,14.21,6,7,1,Desktop,Email,No,Home Appliances,5,803.5,Europe,0,No
+C0950,48.0,Female,USA,107936.16,30.44,3,9,8,Mobile,Email,No,Fashion,6,756.72,Asia,0,Yes
+C0951,57.0,Female,Canada,48183.28,6.83,2,8,11,Desktop,Organic,Yes,Electronics,5,1305.13,Asia,2,No
+C0952,54.0,Male,UK,58182.13,11.7,2,0,12,Tablet,Ad,Yes,Electronics,3,998.44,Europe,0,No
+C0953,53.0,Male,Germany,79533.86,27.87,13,8,2,Desktop,Ad,Yes,Home Appliances,8,746.74,Asia,0,No
+C0954,,Male,UK,215843.71,8.47,9,2,8,Desktop,,No,Home Appliances,9,1654.17,Europe,0,No
+C0955,48.0,Female,India,87258.01,26.82,16,9,12,Mobile,,Yes,Home Appliances,4,855.91,Asia,0,Yes
+C0956,23.0,Female,Germany,78097.67,31.07,5,8,14,Tablet,Organic,No,Electronics,9,1455.31,North America,0,Yes
+C0957,19.0,Female,Canada,42755.69,29.82,38,0,4,Desktop,Email,Yes,Electronics,9,5260.39,Europe,0,No
+C0958,37.0,Male,Germany,71086.85,52.8,13,0,5,Mobile,Organic,No,Home Appliances,7,220.27,Europe,3,Yes
+C0959,45.0,Female,UK,53291.48,34.15,13,8,1,Desktop,Ad,No,Electronics,8,1455.2,North America,0,Yes
+C0960,28.0,Female,USA,59779.02,30.74,7,5,7,Mobile,Ad,Yes,Fashion,3,721.34,Europe,0,Yes
+C0961,21.0,Male,Germany,104817.43,27.59,10,3,10,Mobile,Email,Yes,Home Appliances,5,644.73,North America,0,Yes
+C0962,32.0,Female,Canada,80774.6,49.97,15,6,8,Desktop,Email,No,Home Appliances,3,787.46,Asia,0,No
+C0963,23.0,Male,India,230901.67,54.23,6,4,1,Tablet,Ad,Yes,Fashion,7,540.78,North America,0,No
+C0964,47.0,Female,USA,169227.91,51.93,5,9,5,Tablet,Ad,Yes,Fashion,6,762.21,North America,0,No
+C0965,55.0,Male,India,72806.32,42.05,2,6,5,Mobile,Ad,Yes,Electronics,3,466.32,Europe,0,Yes
+C0966,19.0,Female,Germany,62416.88,12.55,15,7,7,Tablet,Email,No,Fashion,9,1428.76,Asia,0,No
+C0967,32.0,Female,UK,197071.32,20.23,16,7,9,Mobile,Organic,No,Home Appliances,1,621.32,North America,1,No
+C0968,28.0,Female,UK,226391.54,7.53,19,0,11,Tablet,Email,No,Electronics,10,528.72,Asia,0,No
+C0969,25.0,Female,Canada,32954.26,56.2,9,7,4,Desktop,Ad,Yes,Fashion,3,381.86,North America,0,No
+C0970,43.0,Male,UK,103407.09,41.34,19,5,8,Tablet,Email,No,Electronics,10,781.54,Europe,0,No
+C0971,62.0,Male,USA,87034.58,46.05,7,3,0,Mobile,Email,No,Electronics,7,744.17,North America,2,Yes
+C0972,61.0,Male,UK,136565.56,22.14,4,7,8,Mobile,Email,No,Electronics,3,839.71,North America,0,Yes
+C0973,,Male,Canada,260754.35,51.51,3,2,9,Tablet,Ad,Yes,Electronics,3,359.12,Asia,0,Yes
+C0974,23.0,Female,Germany,77495.22,19.28,11,3,6,Desktop,Email,No,Fashion,2,254.5,North America,2,No
+C0975,43.0,Male,Germany,35229.91,5.09,1,5,3,Mobile,,No,Home Appliances,9,968.12,Europe,0,No
+C0976,21.0,Female,UK,131861.03,25.7,6,6,2,Mobile,Ad,No,Home Appliances,4,1620.98,Europe,0,No
+C0977,36.0,Female,India,197794.13,36.39,11,3,13,Mobile,Ad,Yes,Fashion,10,359.31,North America,0,No
+C0978,,Female,Germany,84805.88,31.33,1,3,9,Mobile,Email,Yes,Home Appliances,6,1726.18,North America,0,No
+C0979,50.0,Male,UK,69388.84,52.41,7,6,14,Mobile,Email,Yes,Electronics,2,788.67,Asia,3,No
+C0980,37.0,Female,Canada,79329.89,10.8,6,5,10,Desktop,Ad,Yes,Electronics,9,662.33,Asia,0,No
+C0981,29.0,Female,UK,151010.2,35.46,14,7,13,Tablet,Ad,No,Electronics,7,523.99,Europe,0,No
+C0982,64.0,Male,Germany,78650.52,33.21,2,0,5,Desktop,Ad,No,Fashion,10,289.83,Asia,1,No
+C0983,18.0,Female,Canada,116352.56,20.48,4,9,11,Desktop,,No,Electronics,5,1203.08,North America,0,Yes
+C0984,43.0,Female,UK,100097.65,50.22,11,6,12,Mobile,Organic,Yes,Electronics,7,417.65,Europe,0,No
+C0985,,Male,USA,95064.43,46.41,15,6,0,Desktop,Email,Yes,Fashion,4,416.6,Asia,0,No
+C0986,55.0,Female,Canada,140174.89,45.31,18,6,2,Mobile,Organic,Yes,Electronics,10,1206.11,Europe,0,No
+C0987,54.0,Male,USA,77707.73,53.19,1,6,1,Desktop,Ad,Yes,Electronics,7,214.91,North America,0,No
+C0988,28.0,Male,India,79595.01,44.75,3,9,10,Mobile,Organic,No,Home Appliances,2,266.62,Asia,2,Yes
+C0989,53.0,Male,Canada,147090.22,17.75,3,9,12,Mobile,Email,Yes,Fashion,7,657.94,North America,0,Yes
+C0990,30.0,Male,USA,60266.84,43.81,7,7,8,Desktop,Ad,Yes,Electronics,4,793.12,North America,0,No
+C0991,60.0,Male,Germany,63569.55,21.92,1,8,2,Desktop,Organic,No,Electronics,4,889.66,Europe,0,No
+C0992,20.0,Male,Germany,52566.95,18.32,11,8,12,Tablet,Organic,No,Electronics,1,554.97,Europe,0,Yes
+C0993,50.0,Female,India,150920.04,9.02,6,1,1,Tablet,Organic,No,Electronics,3,3035.77,Europe,0,No
+C0994,23.0,Female,Canada,93655.79,45.92,3,6,3,Tablet,Ad,No,Home Appliances,5,580.14,Asia,0,No
+C0995,27.0,Female,Canada,51184.52,44.11,19,6,14,Desktop,,Yes,Home Appliances,5,579.13,Asia,3,No
+C0996,22.0,Male,Canada,151282.51,17.9,2,3,13,Desktop,,No,Home Appliances,2,412.32,Europe,0,No
+C0997,40.0,Male,India,74774.25,46.22,18,8,1,Mobile,Ad,No,Home Appliances,4,716.48,Asia,0,Yes
+C0998,27.0,Female,Canada,63841.64,55.48,12,7,0,Tablet,Ad,No,Fashion,1,961.96,Asia,0,No
+C0999,61.0,Male,Germany,89514.93,10.94,10,0,5,Mobile,Ad,No,Electronics,9,1369.43,Europe,0,No
+C1000,,Male,USA,206769.89,17.8,5,1,14,Mobile,,Yes,Home Appliances,1,272.17,North America,0,No
+C0522,25.0,Male,Canada,193191.48,26.83,14,7,14,Desktop,Organic,No,Home Appliances,7,593.98,North America,2,Yes
+C0738,38.0,Male,Canada,45991.63,22.33,12,8,11,Desktop,Ad,No,Fashion,4,623.21,Asia,0,Yes
+C0741,34.0,Female,India,193499.75,50.51,11,2,8,Tablet,Organic,No,Fashion,4,231.61,Asia,0,No
+C0661,38.0,Female,USA,137905.64,45.08,1,5,11,Mobile,Ad,No,Fashion,5,1563.02,Europe,1,No
+C0412,61.0,Female,USA,133070.91,49.84,1,5,11,Tablet,Email,No,Home Appliances,4,919.67,North America,0,Yes
+C0679,40.0,Female,UK,52697.96,57.97,6,9,12,Tablet,Ad,Yes,Fashion,6,523.29,North America,0,No
+C0627,21.0,Male,India,83871.77,37.89,19,0,9,Desktop,Ad,Yes,Home Appliances,2,412.21,Asia,0,No
+C0514,29.0,Male,Germany,122766.69,56.76,2,7,14,Tablet,Ad,No,Electronics,2,915.74,North America,3,Yes
+C0860,43.0,Male,India,81100.09,22.81,8,6,6,Desktop,,No,Fashion,8,543.77,Asia,0,No
+C0137,43.0,Male,UK,83141.1,19.43,11,8,10,Desktop,Ad,No,Fashion,10,479.35,Asia,0,No
+C0812,37.0,Female,USA,64091.54,53.73,19,4,4,Tablet,,No,Electronics,3,360.73,Asia,2,No
+C0077,25.0,Male,Canada,128269.08,13.71,1,0,7,Tablet,Email,No,Electronics,4,541.31,Europe,2,Yes
+C0637,36.0,Female,Canada,146278.85,35.43,10,9,7,Mobile,Email,No,Home Appliances,5,1532.84,Asia,0,No
+C0974,23.0,Female,Germany,77495.22,19.28,11,3,6,Desktop,Email,No,Fashion,2,254.5,North America,2,No
+C0939,38.0,Male,UK,212341.26,12.28,5,4,14,Tablet,Organic,No,Electronics,6,460.98,North America,0,No
+C0900,27.0,Female,Germany,134889.3,37.88,7,7,1,Mobile,,Yes,Electronics,2,547.57,Asia,2,Yes
+C0281,28.0,Female,India,42093.62,10.81,16,9,12,Tablet,Ad,No,Home Appliances,6,553.16,Asia,0,No
+C0884,31.0,Female,USA,177462.8,17.72,7,9,9,Desktop,Email,Yes,Electronics,8,781.79,North America,0,No
+C0762,18.0,Male,UK,106587.39,10.02,18,0,3,Tablet,Ad,No,Home Appliances,5,649.13,Asia,0,No
+C0320,44.0,Male,Canada,190078.49,33.14,17,8,5,Desktop,Organic,No,Fashion,8,991.81,Asia,0,No
